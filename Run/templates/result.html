@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/materialize.min.css') }}">
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/main.css') }}">
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/result.css') }}">
+	<style type="text/css">
+		.correct{ background-color: lightgreen; }
+		.wrong{ background-color: pink; }
+	</style>
+</head>
+<body>
+	<div class="container">
+		<div class="row">
+			<div class="col s12 m6 offset-m3 l4 offset-l4">
+				<form action="http://localhost:5000/home">
+				<button type="submit" id="home-link" value="Home" class="btn waves-effect waves-light light-blue"><i class="material-icons">home</i> </button>
+				</form>
+				<div class="vertical-center">
+					<section>
+						<h5 class="center">Result</h5>
+						
+						<img src="{{ image }}" id="test-image" class="preview-image">
+
+						<!-- { if error} -->
+						<p class="error"> {{ error }} </p>
+						<!-- { endif } -->
+						{% block body %}
+
+							{% if option == 'labeled' %}
+								<p id="results"> </p>
+							<section class="accuracy">
+								<h6 class="center">Word Accuracy</h6>
+								<p>
+									<span class="percent seg">{{ seg }}</span>
+									Segmentation
+								</p> 
+								<p> 
+									<span class="percent recog">{{ recog }}</span>
+									Recognition
+								</p>
+							</section>
+							
+							{% else %}
+								<p id="results">
+									{{ words }}
+								</p> 
+							{% endif %}
+						{% endblock %}
+					</section>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+	
+<script type="text/javascript" src= "{{ url_for('static', filename='js/jquery.min.js') }}" ></script>
+<script type="text/javascript" src="{{ url_for('static', filename='js/materialize.min.js') }}"></script>
+<script type="text/javascript" src="{{ url_for('static', filename='js/result.js') }}"></script>
+
+<script type="text/javascript">
+	var option = {{ option|tojson }};
+	var words = {{ words|tojson }};
+
+
+	if (option == "labeled") {
+		
+		check(words, {{ labels|tojson }})
+	}
+
+
+	function check(words, correct) {
+		var resultChar = words.split("/").join().split("\n").join().split(" ").join().split(",")
+		var correctChar = correct.split("/").join().split("\n").join().split(" ").join().split(",")
+		var stoppedAt = 0
+
+		for (var i = 0; i < resultChar.length && i < correctChar.length ; i++) {
+				var letter = resultChar[i]
+				var correct_letter = correctChar[i]
+				var span = $("<span>" + (resultChar[i]) + " </span>")
+
+				console.log("letter: " + letter)
+				console.log("correct letter: " + correct_letter)
+
+				if (letter == correct_letter) {
+					span.attr("class", "correct")
+				} else {
+					span.attr("class", "wrong")
+				}
+
+				$("#results").append(span)
+
+				stoppedAt = i
+			}
+
+		if (stoppedAt < resultChar.length) {
+				for (var i = stoppedAt; i < resultChar.length; i++) {
+					var span = $("<span>" + (resultChar[i]) + " </span>"	)			
+					span.attr("class", "wrong")
+					$("#results").append(span)
+				}
+			} else if (stoppedAt < correctChar.length) {
+				for (var i = stoppedAt; i < correctChar.length; i++) {
+					var span = $("<span>&nbsp;</span>")				
+					span.attr("class", "wrong")
+					$("#results").append(span)
+				}
+			}
+
+	}
+	
+	
+	
+</script>
+	
+</body>
+</html>

@@ -1,0 +1,6300 @@
+prediction: 0
+correct label: 0	letter: a
+Iteration: 1
+
+prediction: 0
+correct label: 0	letter: a
+Iteration: 2
+
+prediction: 0
+correct label: 0	letter: a
+Iteration: 3
+
+prediction: 6
+correct label: 0	letter: g
+Iteration: 4
+
+prediction: 0
+correct label: 0	letter: a
+Iteration: 5
+
+prediction: 6
+correct label: 0	letter: g
+Iteration: 6
+
+prediction: 35
+correct label: 0	letter: J
+Iteration: 7
+
+prediction: 0
+correct label: 0	letter: a
+Iteration: 8
+
+prediction: 0
+correct label: 0	letter: a
+Iteration: 9
+
+prediction: 0
+correct label: 0	letter: a
+Iteration: 10
+
+prediction: 0
+correct label: 0	letter: a
+Iteration: 11
+
+prediction: 6
+correct label: 0	letter: g
+Iteration: 12
+
+prediction: 0
+correct label: 0	letter: a
+Iteration: 13
+
+prediction: 0
+correct label: 0	letter: a
+Iteration: 14
+
+prediction: 0
+correct label: 0	letter: a
+Iteration: 15
+
+prediction: 0
+correct label: 0	letter: a
+Iteration: 16
+
+prediction: 0
+correct label: 0	letter: a
+Iteration: 17
+
+prediction: 0
+correct label: 0	letter: a
+Iteration: 18
+
+prediction: 6
+correct label: 0	letter: g
+Iteration: 19
+
+prediction: 0
+correct label: 0	letter: a
+Iteration: 20
+
+prediction: 0
+correct label: 0	letter: a
+Iteration: 21
+
+prediction: 0
+correct label: 0	letter: a
+Iteration: 22
+
+prediction: 0
+correct label: 0	letter: a
+Iteration: 23
+
+prediction: 0
+correct label: 0	letter: a
+Iteration: 24
+
+prediction: 0
+correct label: 0	letter: a
+Iteration: 25
+
+prediction: 0
+correct label: 0	letter: a
+Iteration: 26
+
+prediction: 0
+correct label: 0	letter: a
+Iteration: 27
+
+prediction: 6
+correct label: 0	letter: g
+Iteration: 28
+
+prediction: 6
+correct label: 0	letter: g
+Iteration: 29
+
+prediction: 0
+correct label: 0	letter: a
+Iteration: 30
+
+prediction: 0
+correct label: 0	letter: a
+Iteration: 31
+
+prediction: 1
+correct label: 1	letter: b
+Iteration: 32
+
+prediction: 7
+correct label: 1	letter: h
+Iteration: 33
+
+prediction: 1
+correct label: 1	letter: b
+Iteration: 34
+
+prediction: 1
+correct label: 1	letter: b
+Iteration: 35
+
+prediction: 1
+correct label: 1	letter: b
+Iteration: 36
+
+prediction: 1
+correct label: 1	letter: b
+Iteration: 37
+
+prediction: 1
+correct label: 1	letter: b
+Iteration: 38
+
+prediction: 1
+correct label: 1	letter: b
+Iteration: 39
+
+prediction: 1
+correct label: 1	letter: b
+Iteration: 40
+
+prediction: 1
+correct label: 1	letter: b
+Iteration: 41
+
+prediction: 1
+correct label: 1	letter: b
+Iteration: 42
+
+prediction: 1
+correct label: 1	letter: b
+Iteration: 43
+
+prediction: 1
+correct label: 1	letter: b
+Iteration: 44
+
+prediction: 1
+correct label: 1	letter: b
+Iteration: 45
+
+prediction: 1
+correct label: 1	letter: b
+Iteration: 46
+
+prediction: 1
+correct label: 1	letter: b
+Iteration: 47
+
+prediction: 1
+correct label: 1	letter: b
+Iteration: 48
+
+prediction: 1
+correct label: 1	letter: b
+Iteration: 49
+
+prediction: 1
+correct label: 1	letter: b
+Iteration: 50
+
+prediction: 1
+correct label: 1	letter: b
+Iteration: 51
+
+prediction: 1
+correct label: 1	letter: b
+Iteration: 52
+
+prediction: 7
+correct label: 1	letter: h
+Iteration: 53
+
+prediction: 1
+correct label: 1	letter: b
+Iteration: 54
+
+prediction: 1
+correct label: 1	letter: b
+Iteration: 55
+
+prediction: 1
+correct label: 1	letter: b
+Iteration: 56
+
+prediction: 1
+correct label: 1	letter: b
+Iteration: 57
+
+prediction: 7
+correct label: 1	letter: h
+Iteration: 58
+
+prediction: 1
+correct label: 1	letter: b
+Iteration: 59
+
+prediction: 1
+correct label: 1	letter: b
+Iteration: 60
+
+prediction: 7
+correct label: 1	letter: h
+Iteration: 61
+
+prediction: 1
+correct label: 1	letter: b
+Iteration: 62
+
+prediction: 45
+correct label: 2	letter: T
+Iteration: 63
+
+prediction: 35
+correct label: 2	letter: J
+Iteration: 64
+
+prediction: 2
+correct label: 2	letter: c
+Iteration: 65
+
+prediction: 14
+correct label: 2	letter: o
+Iteration: 66
+
+prediction: 14
+correct label: 2	letter: o
+Iteration: 67
+
+prediction: 28
+correct label: 2	letter: C
+Iteration: 68
+
+prediction: 28
+correct label: 2	letter: C
+Iteration: 69
+
+prediction: 14
+correct label: 2	letter: o
+Iteration: 70
+
+prediction: 28
+correct label: 2	letter: C
+Iteration: 71
+
+prediction: 2
+correct label: 2	letter: c
+Iteration: 72
+
+prediction: 14
+correct label: 2	letter: o
+Iteration: 73
+
+prediction: 28
+correct label: 2	letter: C
+Iteration: 74
+
+prediction: 14
+correct label: 2	letter: o
+Iteration: 75
+
+prediction: 2
+correct label: 2	letter: c
+Iteration: 76
+
+prediction: 14
+correct label: 2	letter: o
+Iteration: 77
+
+prediction: 28
+correct label: 2	letter: C
+Iteration: 78
+
+prediction: 2
+correct label: 2	letter: c
+Iteration: 79
+
+prediction: 2
+correct label: 2	letter: c
+Iteration: 80
+
+prediction: 28
+correct label: 2	letter: C
+Iteration: 81
+
+prediction: 2
+correct label: 2	letter: c
+Iteration: 82
+
+prediction: 2
+correct label: 2	letter: c
+Iteration: 83
+
+prediction: 28
+correct label: 2	letter: C
+Iteration: 84
+
+prediction: 14
+correct label: 2	letter: o
+Iteration: 85
+
+prediction: 2
+correct label: 2	letter: c
+Iteration: 86
+
+prediction: 28
+correct label: 2	letter: C
+Iteration: 87
+
+prediction: 2
+correct label: 2	letter: c
+Iteration: 88
+
+prediction: 2
+correct label: 2	letter: c
+Iteration: 89
+
+prediction: 2
+correct label: 2	letter: c
+Iteration: 90
+
+prediction: 2
+correct label: 2	letter: c
+Iteration: 91
+
+prediction: 2
+correct label: 2	letter: c
+Iteration: 92
+
+prediction: 2
+correct label: 2	letter: c
+Iteration: 93
+
+prediction: 9
+correct label: 3	letter: j
+Iteration: 94
+
+prediction: 3
+correct label: 3	letter: d
+Iteration: 95
+
+prediction: 3
+correct label: 3	letter: d
+Iteration: 96
+
+prediction: 3
+correct label: 3	letter: d
+Iteration: 97
+
+prediction: 9
+correct label: 3	letter: j
+Iteration: 98
+
+prediction: 3
+correct label: 3	letter: d
+Iteration: 99
+
+prediction: 3
+correct label: 3	letter: d
+Iteration: 100
+
+prediction: 3
+correct label: 3	letter: d
+Iteration: 101
+
+prediction: 49
+correct label: 3	letter: X
+Iteration: 102
+
+prediction: 3
+correct label: 3	letter: d
+Iteration: 103
+
+prediction: 3
+correct label: 3	letter: d
+Iteration: 104
+
+prediction: 3
+correct label: 3	letter: d
+Iteration: 105
+
+prediction: 3
+correct label: 3	letter: d
+Iteration: 106
+
+prediction: 3
+correct label: 3	letter: d
+Iteration: 107
+
+prediction: 3
+correct label: 3	letter: d
+Iteration: 108
+
+prediction: 3
+correct label: 3	letter: d
+Iteration: 109
+
+prediction: 3
+correct label: 3	letter: d
+Iteration: 110
+
+prediction: 3
+correct label: 3	letter: d
+Iteration: 111
+
+prediction: 9
+correct label: 3	letter: j
+Iteration: 112
+
+prediction: 3
+correct label: 3	letter: d
+Iteration: 113
+
+prediction: 3
+correct label: 3	letter: d
+Iteration: 114
+
+prediction: 3
+correct label: 3	letter: d
+Iteration: 115
+
+prediction: 3
+correct label: 3	letter: d
+Iteration: 116
+
+prediction: 9
+correct label: 3	letter: j
+Iteration: 117
+
+prediction: 3
+correct label: 3	letter: d
+Iteration: 118
+
+prediction: 3
+correct label: 3	letter: d
+Iteration: 119
+
+prediction: 3
+correct label: 3	letter: d
+Iteration: 120
+
+prediction: 3
+correct label: 3	letter: d
+Iteration: 121
+
+prediction: 3
+correct label: 3	letter: d
+Iteration: 122
+
+prediction: 9
+correct label: 3	letter: j
+Iteration: 123
+
+prediction: 3
+correct label: 3	letter: d
+Iteration: 124
+
+prediction: 4
+correct label: 4	letter: e
+Iteration: 125
+
+prediction: 4
+correct label: 4	letter: e
+Iteration: 126
+
+prediction: 51
+correct label: 4	letter: Z
+Iteration: 127
+
+prediction: 4
+correct label: 4	letter: e
+Iteration: 128
+
+prediction: 4
+correct label: 4	letter: e
+Iteration: 129
+
+prediction: 4
+correct label: 4	letter: e
+Iteration: 130
+
+prediction: 4
+correct label: 4	letter: e
+Iteration: 131
+
+prediction: 4
+correct label: 4	letter: e
+Iteration: 132
+
+prediction: 6
+correct label: 4	letter: g
+Iteration: 133
+
+prediction: 4
+correct label: 4	letter: e
+Iteration: 134
+
+prediction: 4
+correct label: 4	letter: e
+Iteration: 135
+
+prediction: 4
+correct label: 4	letter: e
+Iteration: 136
+
+prediction: 4
+correct label: 4	letter: e
+Iteration: 137
+
+prediction: 4
+correct label: 4	letter: e
+Iteration: 138
+
+prediction: 4
+correct label: 4	letter: e
+Iteration: 139
+
+prediction: 4
+correct label: 4	letter: e
+Iteration: 140
+
+prediction: 4
+correct label: 4	letter: e
+Iteration: 141
+
+prediction: 4
+correct label: 4	letter: e
+Iteration: 142
+
+prediction: 4
+correct label: 4	letter: e
+Iteration: 143
+
+prediction: 4
+correct label: 4	letter: e
+Iteration: 144
+
+prediction: 4
+correct label: 4	letter: e
+Iteration: 145
+
+prediction: 6
+correct label: 4	letter: g
+Iteration: 146
+
+prediction: 4
+correct label: 4	letter: e
+Iteration: 147
+
+prediction: 4
+correct label: 4	letter: e
+Iteration: 148
+
+prediction: 4
+correct label: 4	letter: e
+Iteration: 149
+
+prediction: 4
+correct label: 4	letter: e
+Iteration: 150
+
+prediction: 4
+correct label: 4	letter: e
+Iteration: 151
+
+prediction: 4
+correct label: 4	letter: e
+Iteration: 152
+
+prediction: 4
+correct label: 4	letter: e
+Iteration: 153
+
+prediction: 4
+correct label: 4	letter: e
+Iteration: 154
+
+prediction: 4
+correct label: 4	letter: e
+Iteration: 155
+
+prediction: 5
+correct label: 5	letter: f
+Iteration: 156
+
+prediction: 5
+correct label: 5	letter: f
+Iteration: 157
+
+prediction: 5
+correct label: 5	letter: f
+Iteration: 158
+
+prediction: 5
+correct label: 5	letter: f
+Iteration: 159
+
+prediction: 5
+correct label: 5	letter: f
+Iteration: 160
+
+prediction: 5
+correct label: 5	letter: f
+Iteration: 161
+
+prediction: 5
+correct label: 5	letter: f
+Iteration: 162
+
+prediction: 5
+correct label: 5	letter: f
+Iteration: 163
+
+prediction: 5
+correct label: 5	letter: f
+Iteration: 164
+
+prediction: 5
+correct label: 5	letter: f
+Iteration: 165
+
+prediction: 5
+correct label: 5	letter: f
+Iteration: 166
+
+prediction: 5
+correct label: 5	letter: f
+Iteration: 167
+
+prediction: 5
+correct label: 5	letter: f
+Iteration: 168
+
+prediction: 5
+correct label: 5	letter: f
+Iteration: 169
+
+prediction: 5
+correct label: 5	letter: f
+Iteration: 170
+
+prediction: 5
+correct label: 5	letter: f
+Iteration: 171
+
+prediction: 5
+correct label: 5	letter: f
+Iteration: 172
+
+prediction: 5
+correct label: 5	letter: f
+Iteration: 173
+
+prediction: 5
+correct label: 5	letter: f
+Iteration: 174
+
+prediction: 15
+correct label: 5	letter: p
+Iteration: 175
+
+prediction: 5
+correct label: 5	letter: f
+Iteration: 176
+
+prediction: 5
+correct label: 5	letter: f
+Iteration: 177
+
+prediction: 5
+correct label: 5	letter: f
+Iteration: 178
+
+prediction: 51
+correct label: 5	letter: Z
+Iteration: 179
+
+prediction: 5
+correct label: 5	letter: f
+Iteration: 180
+
+prediction: 5
+correct label: 5	letter: f
+Iteration: 181
+
+prediction: 5
+correct label: 5	letter: f
+Iteration: 182
+
+prediction: 5
+correct label: 5	letter: f
+Iteration: 183
+
+prediction: 5
+correct label: 5	letter: f
+Iteration: 184
+
+prediction: 5
+correct label: 5	letter: f
+Iteration: 185
+
+prediction: 5
+correct label: 5	letter: f
+Iteration: 186
+
+prediction: 6
+correct label: 6	letter: g
+Iteration: 187
+
+prediction: 6
+correct label: 6	letter: g
+Iteration: 188
+
+prediction: 6
+correct label: 6	letter: g
+Iteration: 189
+
+prediction: 6
+correct label: 6	letter: g
+Iteration: 190
+
+prediction: 6
+correct label: 6	letter: g
+Iteration: 191
+
+prediction: 6
+correct label: 6	letter: g
+Iteration: 192
+
+prediction: 6
+correct label: 6	letter: g
+Iteration: 193
+
+prediction: 6
+correct label: 6	letter: g
+Iteration: 194
+
+prediction: 6
+correct label: 6	letter: g
+Iteration: 195
+
+prediction: 6
+correct label: 6	letter: g
+Iteration: 196
+
+prediction: 6
+correct label: 6	letter: g
+Iteration: 197
+
+prediction: 6
+correct label: 6	letter: g
+Iteration: 198
+
+prediction: 6
+correct label: 6	letter: g
+Iteration: 199
+
+prediction: 6
+correct label: 6	letter: g
+Iteration: 200
+
+prediction: 6
+correct label: 6	letter: g
+Iteration: 201
+
+prediction: 6
+correct label: 6	letter: g
+Iteration: 202
+
+prediction: 6
+correct label: 6	letter: g
+Iteration: 203
+
+prediction: 6
+correct label: 6	letter: g
+Iteration: 204
+
+prediction: 6
+correct label: 6	letter: g
+Iteration: 205
+
+prediction: 6
+correct label: 6	letter: g
+Iteration: 206
+
+prediction: 6
+correct label: 6	letter: g
+Iteration: 207
+
+prediction: 6
+correct label: 6	letter: g
+Iteration: 208
+
+prediction: 6
+correct label: 6	letter: g
+Iteration: 209
+
+prediction: 6
+correct label: 6	letter: g
+Iteration: 210
+
+prediction: 6
+correct label: 6	letter: g
+Iteration: 211
+
+prediction: 6
+correct label: 6	letter: g
+Iteration: 212
+
+prediction: 6
+correct label: 6	letter: g
+Iteration: 213
+
+prediction: 6
+correct label: 6	letter: g
+Iteration: 214
+
+prediction: 6
+correct label: 6	letter: g
+Iteration: 215
+
+prediction: 6
+correct label: 6	letter: g
+Iteration: 216
+
+prediction: 6
+correct label: 6	letter: g
+Iteration: 217
+
+prediction: 7
+correct label: 7	letter: h
+Iteration: 218
+
+prediction: 7
+correct label: 7	letter: h
+Iteration: 219
+
+prediction: 44
+correct label: 7	letter: S
+Iteration: 220
+
+prediction: 7
+correct label: 7	letter: h
+Iteration: 221
+
+prediction: 7
+correct label: 7	letter: h
+Iteration: 222
+
+prediction: 7
+correct label: 7	letter: h
+Iteration: 223
+
+prediction: 7
+correct label: 7	letter: h
+Iteration: 224
+
+prediction: 7
+correct label: 7	letter: h
+Iteration: 225
+
+prediction: 7
+correct label: 7	letter: h
+Iteration: 226
+
+prediction: 7
+correct label: 7	letter: h
+Iteration: 227
+
+prediction: 7
+correct label: 7	letter: h
+Iteration: 228
+
+prediction: 7
+correct label: 7	letter: h
+Iteration: 229
+
+prediction: 7
+correct label: 7	letter: h
+Iteration: 230
+
+prediction: 7
+correct label: 7	letter: h
+Iteration: 231
+
+prediction: 7
+correct label: 7	letter: h
+Iteration: 232
+
+prediction: 7
+correct label: 7	letter: h
+Iteration: 233
+
+prediction: 7
+correct label: 7	letter: h
+Iteration: 234
+
+prediction: 7
+correct label: 7	letter: h
+Iteration: 235
+
+prediction: 7
+correct label: 7	letter: h
+Iteration: 236
+
+prediction: 7
+correct label: 7	letter: h
+Iteration: 237
+
+prediction: 44
+correct label: 7	letter: S
+Iteration: 238
+
+prediction: 7
+correct label: 7	letter: h
+Iteration: 239
+
+prediction: 7
+correct label: 7	letter: h
+Iteration: 240
+
+prediction: 7
+correct label: 7	letter: h
+Iteration: 241
+
+prediction: 7
+correct label: 7	letter: h
+Iteration: 242
+
+prediction: 7
+correct label: 7	letter: h
+Iteration: 243
+
+prediction: 7
+correct label: 7	letter: h
+Iteration: 244
+
+prediction: 7
+correct label: 7	letter: h
+Iteration: 245
+
+prediction: 7
+correct label: 7	letter: h
+Iteration: 246
+
+prediction: 47
+correct label: 7	letter: V
+Iteration: 247
+
+prediction: 47
+correct label: 7	letter: V
+Iteration: 248
+
+prediction: 17
+correct label: 8	letter: r
+Iteration: 249
+
+prediction: 5
+correct label: 8	letter: f
+Iteration: 250
+
+prediction: 8
+correct label: 8	letter: i
+Iteration: 251
+
+prediction: 8
+correct label: 8	letter: i
+Iteration: 252
+
+prediction: 19
+correct label: 8	letter: t
+Iteration: 253
+
+prediction: 8
+correct label: 8	letter: i
+Iteration: 254
+
+prediction: 8
+correct label: 8	letter: i
+Iteration: 255
+
+prediction: 51
+correct label: 8	letter: Z
+Iteration: 256
+
+prediction: 8
+correct label: 8	letter: i
+Iteration: 257
+
+prediction: 7
+correct label: 8	letter: h
+Iteration: 258
+
+prediction: 8
+correct label: 8	letter: i
+Iteration: 259
+
+prediction: 8
+correct label: 8	letter: i
+Iteration: 260
+
+prediction: 8
+correct label: 8	letter: i
+Iteration: 261
+
+prediction: 51
+correct label: 8	letter: Z
+Iteration: 262
+
+prediction: 8
+correct label: 8	letter: i
+Iteration: 263
+
+prediction: 51
+correct label: 8	letter: Z
+Iteration: 264
+
+prediction: 8
+correct label: 8	letter: i
+Iteration: 265
+
+prediction: 8
+correct label: 8	letter: i
+Iteration: 266
+
+prediction: 8
+correct label: 8	letter: i
+Iteration: 267
+
+prediction: 51
+correct label: 8	letter: Z
+Iteration: 268
+
+prediction: 8
+correct label: 8	letter: i
+Iteration: 269
+
+prediction: 7
+correct label: 8	letter: h
+Iteration: 270
+
+prediction: 23
+correct label: 8	letter: x
+Iteration: 271
+
+prediction: 8
+correct label: 8	letter: i
+Iteration: 272
+
+prediction: 17
+correct label: 8	letter: r
+Iteration: 273
+
+prediction: 8
+correct label: 8	letter: i
+Iteration: 274
+
+prediction: 11
+correct label: 8	letter: l
+Iteration: 275
+
+prediction: 8
+correct label: 8	letter: i
+Iteration: 276
+
+prediction: 5
+correct label: 8	letter: f
+Iteration: 277
+
+prediction: 8
+correct label: 8	letter: i
+Iteration: 278
+
+prediction: 5
+correct label: 8	letter: f
+Iteration: 279
+
+prediction: 9
+correct label: 9	letter: j
+Iteration: 280
+
+prediction: 9
+correct label: 9	letter: j
+Iteration: 281
+
+prediction: 9
+correct label: 9	letter: j
+Iteration: 282
+
+prediction: 9
+correct label: 9	letter: j
+Iteration: 283
+
+prediction: 9
+correct label: 9	letter: j
+Iteration: 284
+
+prediction: 9
+correct label: 9	letter: j
+Iteration: 285
+
+prediction: 9
+correct label: 9	letter: j
+Iteration: 286
+
+prediction: 9
+correct label: 9	letter: j
+Iteration: 287
+
+prediction: 9
+correct label: 9	letter: j
+Iteration: 288
+
+prediction: 9
+correct label: 9	letter: j
+Iteration: 289
+
+prediction: 9
+correct label: 9	letter: j
+Iteration: 290
+
+prediction: 9
+correct label: 9	letter: j
+Iteration: 291
+
+prediction: 9
+correct label: 9	letter: j
+Iteration: 292
+
+prediction: 9
+correct label: 9	letter: j
+Iteration: 293
+
+prediction: 44
+correct label: 9	letter: S
+Iteration: 294
+
+prediction: 9
+correct label: 9	letter: j
+Iteration: 295
+
+prediction: 9
+correct label: 9	letter: j
+Iteration: 296
+
+prediction: 9
+correct label: 9	letter: j
+Iteration: 297
+
+prediction: 9
+correct label: 9	letter: j
+Iteration: 298
+
+prediction: 9
+correct label: 9	letter: j
+Iteration: 299
+
+prediction: 9
+correct label: 9	letter: j
+Iteration: 300
+
+prediction: 9
+correct label: 9	letter: j
+Iteration: 301
+
+prediction: 9
+correct label: 9	letter: j
+Iteration: 302
+
+prediction: 9
+correct label: 9	letter: j
+Iteration: 303
+
+prediction: 9
+correct label: 9	letter: j
+Iteration: 304
+
+prediction: 9
+correct label: 9	letter: j
+Iteration: 305
+
+prediction: 9
+correct label: 9	letter: j
+Iteration: 306
+
+prediction: 9
+correct label: 9	letter: j
+Iteration: 307
+
+prediction: 9
+correct label: 9	letter: j
+Iteration: 308
+
+prediction: 9
+correct label: 9	letter: j
+Iteration: 309
+
+prediction: 9
+correct label: 9	letter: j
+Iteration: 310
+
+prediction: 10
+correct label: 10	letter: k
+Iteration: 311
+
+prediction: 10
+correct label: 10	letter: k
+Iteration: 312
+
+prediction: 7
+correct label: 10	letter: h
+Iteration: 313
+
+prediction: 7
+correct label: 10	letter: h
+Iteration: 314
+
+prediction: 7
+correct label: 10	letter: h
+Iteration: 315
+
+prediction: 7
+correct label: 10	letter: h
+Iteration: 316
+
+prediction: 7
+correct label: 10	letter: h
+Iteration: 317
+
+prediction: 7
+correct label: 10	letter: h
+Iteration: 318
+
+prediction: 5
+correct label: 10	letter: f
+Iteration: 319
+
+prediction: 7
+correct label: 10	letter: h
+Iteration: 320
+
+prediction: 10
+correct label: 10	letter: k
+Iteration: 321
+
+prediction: 47
+correct label: 10	letter: V
+Iteration: 322
+
+prediction: 6
+correct label: 10	letter: g
+Iteration: 323
+
+prediction: 7
+correct label: 10	letter: h
+Iteration: 324
+
+prediction: 7
+correct label: 10	letter: h
+Iteration: 325
+
+prediction: 47
+correct label: 10	letter: V
+Iteration: 326
+
+prediction: 47
+correct label: 10	letter: V
+Iteration: 327
+
+prediction: 1
+correct label: 10	letter: b
+Iteration: 328
+
+prediction: 36
+correct label: 10	letter: K
+Iteration: 329
+
+prediction: 7
+correct label: 10	letter: h
+Iteration: 330
+
+prediction: 10
+correct label: 10	letter: k
+Iteration: 331
+
+prediction: 10
+correct label: 10	letter: k
+Iteration: 332
+
+prediction: 7
+correct label: 10	letter: h
+Iteration: 333
+
+prediction: 7
+correct label: 10	letter: h
+Iteration: 334
+
+prediction: 7
+correct label: 10	letter: h
+Iteration: 335
+
+prediction: 10
+correct label: 10	letter: k
+Iteration: 336
+
+prediction: 7
+correct label: 10	letter: h
+Iteration: 337
+
+prediction: 7
+correct label: 10	letter: h
+Iteration: 338
+
+prediction: 47
+correct label: 10	letter: V
+Iteration: 339
+
+prediction: 47
+correct label: 10	letter: V
+Iteration: 340
+
+prediction: 7
+correct label: 10	letter: h
+Iteration: 341
+
+prediction: 11
+correct label: 11	letter: l
+Iteration: 342
+
+prediction: 11
+correct label: 11	letter: l
+Iteration: 343
+
+prediction: 11
+correct label: 11	letter: l
+Iteration: 344
+
+prediction: 23
+correct label: 11	letter: x
+Iteration: 345
+
+prediction: 11
+correct label: 11	letter: l
+Iteration: 346
+
+prediction: 22
+correct label: 11	letter: w
+Iteration: 347
+
+prediction: 11
+correct label: 11	letter: l
+Iteration: 348
+
+prediction: 11
+correct label: 11	letter: l
+Iteration: 349
+
+prediction: 11
+correct label: 11	letter: l
+Iteration: 350
+
+prediction: 11
+correct label: 11	letter: l
+Iteration: 351
+
+prediction: 23
+correct label: 11	letter: x
+Iteration: 352
+
+prediction: 11
+correct label: 11	letter: l
+Iteration: 353
+
+prediction: 19
+correct label: 11	letter: t
+Iteration: 354
+
+prediction: 11
+correct label: 11	letter: l
+Iteration: 355
+
+prediction: 11
+correct label: 11	letter: l
+Iteration: 356
+
+prediction: 11
+correct label: 11	letter: l
+Iteration: 357
+
+prediction: 11
+correct label: 11	letter: l
+Iteration: 358
+
+prediction: 11
+correct label: 11	letter: l
+Iteration: 359
+
+prediction: 11
+correct label: 11	letter: l
+Iteration: 360
+
+prediction: 23
+correct label: 11	letter: x
+Iteration: 361
+
+prediction: 11
+correct label: 11	letter: l
+Iteration: 362
+
+prediction: 11
+correct label: 11	letter: l
+Iteration: 363
+
+prediction: 51
+correct label: 11	letter: Z
+Iteration: 364
+
+prediction: 11
+correct label: 11	letter: l
+Iteration: 365
+
+prediction: 23
+correct label: 11	letter: x
+Iteration: 366
+
+prediction: 11
+correct label: 11	letter: l
+Iteration: 367
+
+prediction: 11
+correct label: 11	letter: l
+Iteration: 368
+
+prediction: 11
+correct label: 11	letter: l
+Iteration: 369
+
+prediction: 11
+correct label: 11	letter: l
+Iteration: 370
+
+prediction: 11
+correct label: 11	letter: l
+Iteration: 371
+
+prediction: 11
+correct label: 11	letter: l
+Iteration: 372
+
+prediction: 12
+correct label: 12	letter: m
+Iteration: 373
+
+prediction: 14
+correct label: 12	letter: o
+Iteration: 374
+
+prediction: 12
+correct label: 12	letter: m
+Iteration: 375
+
+prediction: 6
+correct label: 12	letter: g
+Iteration: 376
+
+prediction: 6
+correct label: 12	letter: g
+Iteration: 377
+
+prediction: 12
+correct label: 12	letter: m
+Iteration: 378
+
+prediction: 12
+correct label: 12	letter: m
+Iteration: 379
+
+prediction: 12
+correct label: 12	letter: m
+Iteration: 380
+
+prediction: 12
+correct label: 12	letter: m
+Iteration: 381
+
+prediction: 6
+correct label: 12	letter: g
+Iteration: 382
+
+prediction: 6
+correct label: 12	letter: g
+Iteration: 383
+
+prediction: 12
+correct label: 12	letter: m
+Iteration: 384
+
+prediction: 12
+correct label: 12	letter: m
+Iteration: 385
+
+prediction: 12
+correct label: 12	letter: m
+Iteration: 386
+
+prediction: 6
+correct label: 12	letter: g
+Iteration: 387
+
+prediction: 12
+correct label: 12	letter: m
+Iteration: 388
+
+prediction: 6
+correct label: 12	letter: g
+Iteration: 389
+
+prediction: 12
+correct label: 12	letter: m
+Iteration: 390
+
+prediction: 6
+correct label: 12	letter: g
+Iteration: 391
+
+prediction: 12
+correct label: 12	letter: m
+Iteration: 392
+
+prediction: 12
+correct label: 12	letter: m
+Iteration: 393
+
+prediction: 6
+correct label: 12	letter: g
+Iteration: 394
+
+prediction: 12
+correct label: 12	letter: m
+Iteration: 395
+
+prediction: 12
+correct label: 12	letter: m
+Iteration: 396
+
+prediction: 6
+correct label: 12	letter: g
+Iteration: 397
+
+prediction: 12
+correct label: 12	letter: m
+Iteration: 398
+
+prediction: 12
+correct label: 12	letter: m
+Iteration: 399
+
+prediction: 12
+correct label: 12	letter: m
+Iteration: 400
+
+prediction: 6
+correct label: 12	letter: g
+Iteration: 401
+
+prediction: 12
+correct label: 12	letter: m
+Iteration: 402
+
+prediction: 12
+correct label: 12	letter: m
+Iteration: 403
+
+prediction: 13
+correct label: 13	letter: n
+Iteration: 404
+
+prediction: 14
+correct label: 13	letter: o
+Iteration: 405
+
+prediction: 14
+correct label: 13	letter: o
+Iteration: 406
+
+prediction: 13
+correct label: 13	letter: n
+Iteration: 407
+
+prediction: 14
+correct label: 13	letter: o
+Iteration: 408
+
+prediction: 14
+correct label: 13	letter: o
+Iteration: 409
+
+prediction: 13
+correct label: 13	letter: n
+Iteration: 410
+
+prediction: 13
+correct label: 13	letter: n
+Iteration: 411
+
+prediction: 13
+correct label: 13	letter: n
+Iteration: 412
+
+prediction: 14
+correct label: 13	letter: o
+Iteration: 413
+
+prediction: 14
+correct label: 13	letter: o
+Iteration: 414
+
+prediction: 13
+correct label: 13	letter: n
+Iteration: 415
+
+prediction: 13
+correct label: 13	letter: n
+Iteration: 416
+
+prediction: 13
+correct label: 13	letter: n
+Iteration: 417
+
+prediction: 13
+correct label: 13	letter: n
+Iteration: 418
+
+prediction: 14
+correct label: 13	letter: o
+Iteration: 419
+
+prediction: 14
+correct label: 13	letter: o
+Iteration: 420
+
+prediction: 13
+correct label: 13	letter: n
+Iteration: 421
+
+prediction: 14
+correct label: 13	letter: o
+Iteration: 422
+
+prediction: 13
+correct label: 13	letter: n
+Iteration: 423
+
+prediction: 14
+correct label: 13	letter: o
+Iteration: 424
+
+prediction: 13
+correct label: 13	letter: n
+Iteration: 425
+
+prediction: 14
+correct label: 13	letter: o
+Iteration: 426
+
+prediction: 7
+correct label: 13	letter: h
+Iteration: 427
+
+prediction: 13
+correct label: 13	letter: n
+Iteration: 428
+
+prediction: 13
+correct label: 13	letter: n
+Iteration: 429
+
+prediction: 13
+correct label: 13	letter: n
+Iteration: 430
+
+prediction: 13
+correct label: 13	letter: n
+Iteration: 431
+
+prediction: 14
+correct label: 13	letter: o
+Iteration: 432
+
+prediction: 14
+correct label: 13	letter: o
+Iteration: 433
+
+prediction: 13
+correct label: 13	letter: n
+Iteration: 434
+
+prediction: 14
+correct label: 14	letter: o
+Iteration: 435
+
+prediction: 14
+correct label: 14	letter: o
+Iteration: 436
+
+prediction: 14
+correct label: 14	letter: o
+Iteration: 437
+
+prediction: 14
+correct label: 14	letter: o
+Iteration: 438
+
+prediction: 14
+correct label: 14	letter: o
+Iteration: 439
+
+prediction: 14
+correct label: 14	letter: o
+Iteration: 440
+
+prediction: 14
+correct label: 14	letter: o
+Iteration: 441
+
+prediction: 14
+correct label: 14	letter: o
+Iteration: 442
+
+prediction: 14
+correct label: 14	letter: o
+Iteration: 443
+
+prediction: 14
+correct label: 14	letter: o
+Iteration: 444
+
+prediction: 14
+correct label: 14	letter: o
+Iteration: 445
+
+prediction: 14
+correct label: 14	letter: o
+Iteration: 446
+
+prediction: 14
+correct label: 14	letter: o
+Iteration: 447
+
+prediction: 14
+correct label: 14	letter: o
+Iteration: 448
+
+prediction: 14
+correct label: 14	letter: o
+Iteration: 449
+
+prediction: 14
+correct label: 14	letter: o
+Iteration: 450
+
+prediction: 14
+correct label: 14	letter: o
+Iteration: 451
+
+prediction: 14
+correct label: 14	letter: o
+Iteration: 452
+
+prediction: 14
+correct label: 14	letter: o
+Iteration: 453
+
+prediction: 14
+correct label: 14	letter: o
+Iteration: 454
+
+prediction: 14
+correct label: 14	letter: o
+Iteration: 455
+
+prediction: 14
+correct label: 14	letter: o
+Iteration: 456
+
+prediction: 40
+correct label: 14	letter: O
+Iteration: 457
+
+prediction: 14
+correct label: 14	letter: o
+Iteration: 458
+
+prediction: 14
+correct label: 14	letter: o
+Iteration: 459
+
+prediction: 14
+correct label: 14	letter: o
+Iteration: 460
+
+prediction: 14
+correct label: 14	letter: o
+Iteration: 461
+
+prediction: 40
+correct label: 14	letter: O
+Iteration: 462
+
+prediction: 14
+correct label: 14	letter: o
+Iteration: 463
+
+prediction: 14
+correct label: 14	letter: o
+Iteration: 464
+
+prediction: 14
+correct label: 14	letter: o
+Iteration: 465
+
+prediction: 41
+correct label: 15	letter: P
+Iteration: 466
+
+prediction: 41
+correct label: 15	letter: P
+Iteration: 467
+
+prediction: 41
+correct label: 15	letter: P
+Iteration: 468
+
+prediction: 15
+correct label: 15	letter: p
+Iteration: 469
+
+prediction: 41
+correct label: 15	letter: P
+Iteration: 470
+
+prediction: 41
+correct label: 15	letter: P
+Iteration: 471
+
+prediction: 15
+correct label: 15	letter: p
+Iteration: 472
+
+prediction: 41
+correct label: 15	letter: P
+Iteration: 473
+
+prediction: 49
+correct label: 15	letter: X
+Iteration: 474
+
+prediction: 45
+correct label: 15	letter: T
+Iteration: 475
+
+prediction: 41
+correct label: 15	letter: P
+Iteration: 476
+
+prediction: 6
+correct label: 15	letter: g
+Iteration: 477
+
+prediction: 41
+correct label: 15	letter: P
+Iteration: 478
+
+prediction: 41
+correct label: 15	letter: P
+Iteration: 479
+
+prediction: 41
+correct label: 15	letter: P
+Iteration: 480
+
+prediction: 41
+correct label: 15	letter: P
+Iteration: 481
+
+prediction: 41
+correct label: 15	letter: P
+Iteration: 482
+
+prediction: 6
+correct label: 15	letter: g
+Iteration: 483
+
+prediction: 41
+correct label: 15	letter: P
+Iteration: 484
+
+prediction: 6
+correct label: 15	letter: g
+Iteration: 485
+
+prediction: 41
+correct label: 15	letter: P
+Iteration: 486
+
+prediction: 6
+correct label: 15	letter: g
+Iteration: 487
+
+prediction: 41
+correct label: 15	letter: P
+Iteration: 488
+
+prediction: 41
+correct label: 15	letter: P
+Iteration: 489
+
+prediction: 41
+correct label: 15	letter: P
+Iteration: 490
+
+prediction: 6
+correct label: 15	letter: g
+Iteration: 491
+
+prediction: 41
+correct label: 15	letter: P
+Iteration: 492
+
+prediction: 41
+correct label: 15	letter: P
+Iteration: 493
+
+prediction: 41
+correct label: 15	letter: P
+Iteration: 494
+
+prediction: 41
+correct label: 15	letter: P
+Iteration: 495
+
+prediction: 41
+correct label: 15	letter: P
+Iteration: 496
+
+prediction: 16
+correct label: 16	letter: q
+Iteration: 497
+
+prediction: 16
+correct label: 16	letter: q
+Iteration: 498
+
+prediction: 16
+correct label: 16	letter: q
+Iteration: 499
+
+prediction: 6
+correct label: 16	letter: g
+Iteration: 500
+
+prediction: 16
+correct label: 16	letter: q
+Iteration: 501
+
+prediction: 16
+correct label: 16	letter: q
+Iteration: 502
+
+prediction: 6
+correct label: 16	letter: g
+Iteration: 503
+
+prediction: 6
+correct label: 16	letter: g
+Iteration: 504
+
+prediction: 16
+correct label: 16	letter: q
+Iteration: 505
+
+prediction: 16
+correct label: 16	letter: q
+Iteration: 506
+
+prediction: 6
+correct label: 16	letter: g
+Iteration: 507
+
+prediction: 6
+correct label: 16	letter: g
+Iteration: 508
+
+prediction: 16
+correct label: 16	letter: q
+Iteration: 509
+
+prediction: 6
+correct label: 16	letter: g
+Iteration: 510
+
+prediction: 16
+correct label: 16	letter: q
+Iteration: 511
+
+prediction: 16
+correct label: 16	letter: q
+Iteration: 512
+
+prediction: 16
+correct label: 16	letter: q
+Iteration: 513
+
+prediction: 16
+correct label: 16	letter: q
+Iteration: 514
+
+prediction: 16
+correct label: 16	letter: q
+Iteration: 515
+
+prediction: 16
+correct label: 16	letter: q
+Iteration: 516
+
+prediction: 16
+correct label: 16	letter: q
+Iteration: 517
+
+prediction: 16
+correct label: 16	letter: q
+Iteration: 518
+
+prediction: 16
+correct label: 16	letter: q
+Iteration: 519
+
+prediction: 16
+correct label: 16	letter: q
+Iteration: 520
+
+prediction: 16
+correct label: 16	letter: q
+Iteration: 521
+
+prediction: 16
+correct label: 16	letter: q
+Iteration: 522
+
+prediction: 6
+correct label: 16	letter: g
+Iteration: 523
+
+prediction: 16
+correct label: 16	letter: q
+Iteration: 524
+
+prediction: 6
+correct label: 16	letter: g
+Iteration: 525
+
+prediction: 16
+correct label: 16	letter: q
+Iteration: 526
+
+prediction: 16
+correct label: 16	letter: q
+Iteration: 527
+
+prediction: 14
+correct label: 17	letter: o
+Iteration: 528
+
+prediction: 14
+correct label: 17	letter: o
+Iteration: 529
+
+prediction: 15
+correct label: 17	letter: p
+Iteration: 530
+
+prediction: 6
+correct label: 17	letter: g
+Iteration: 531
+
+prediction: 17
+correct label: 17	letter: r
+Iteration: 532
+
+prediction: 17
+correct label: 17	letter: r
+Iteration: 533
+
+prediction: 17
+correct label: 17	letter: r
+Iteration: 534
+
+prediction: 17
+correct label: 17	letter: r
+Iteration: 535
+
+prediction: 17
+correct label: 17	letter: r
+Iteration: 536
+
+prediction: 14
+correct label: 17	letter: o
+Iteration: 537
+
+prediction: 15
+correct label: 17	letter: p
+Iteration: 538
+
+prediction: 17
+correct label: 17	letter: r
+Iteration: 539
+
+prediction: 15
+correct label: 17	letter: p
+Iteration: 540
+
+prediction: 17
+correct label: 17	letter: r
+Iteration: 541
+
+prediction: 15
+correct label: 17	letter: p
+Iteration: 542
+
+prediction: 17
+correct label: 17	letter: r
+Iteration: 543
+
+prediction: 17
+correct label: 17	letter: r
+Iteration: 544
+
+prediction: 15
+correct label: 17	letter: p
+Iteration: 545
+
+prediction: 45
+correct label: 17	letter: T
+Iteration: 546
+
+prediction: 17
+correct label: 17	letter: r
+Iteration: 547
+
+prediction: 17
+correct label: 17	letter: r
+Iteration: 548
+
+prediction: 17
+correct label: 17	letter: r
+Iteration: 549
+
+prediction: 17
+correct label: 17	letter: r
+Iteration: 550
+
+prediction: 45
+correct label: 17	letter: T
+Iteration: 551
+
+prediction: 17
+correct label: 17	letter: r
+Iteration: 552
+
+prediction: 17
+correct label: 17	letter: r
+Iteration: 553
+
+prediction: 17
+correct label: 17	letter: r
+Iteration: 554
+
+prediction: 14
+correct label: 17	letter: o
+Iteration: 555
+
+prediction: 15
+correct label: 17	letter: p
+Iteration: 556
+
+prediction: 17
+correct label: 17	letter: r
+Iteration: 557
+
+prediction: 17
+correct label: 17	letter: r
+Iteration: 558
+
+prediction: 44
+correct label: 18	letter: S
+Iteration: 559
+
+prediction: 18
+correct label: 18	letter: s
+Iteration: 560
+
+prediction: 18
+correct label: 18	letter: s
+Iteration: 561
+
+prediction: 18
+correct label: 18	letter: s
+Iteration: 562
+
+prediction: 18
+correct label: 18	letter: s
+Iteration: 563
+
+prediction: 44
+correct label: 18	letter: S
+Iteration: 564
+
+prediction: 18
+correct label: 18	letter: s
+Iteration: 565
+
+prediction: 44
+correct label: 18	letter: S
+Iteration: 566
+
+prediction: 44
+correct label: 18	letter: S
+Iteration: 567
+
+prediction: 18
+correct label: 18	letter: s
+Iteration: 568
+
+prediction: 18
+correct label: 18	letter: s
+Iteration: 569
+
+prediction: 18
+correct label: 18	letter: s
+Iteration: 570
+
+prediction: 18
+correct label: 18	letter: s
+Iteration: 571
+
+prediction: 44
+correct label: 18	letter: S
+Iteration: 572
+
+prediction: 18
+correct label: 18	letter: s
+Iteration: 573
+
+prediction: 18
+correct label: 18	letter: s
+Iteration: 574
+
+prediction: 44
+correct label: 18	letter: S
+Iteration: 575
+
+prediction: 18
+correct label: 18	letter: s
+Iteration: 576
+
+prediction: 44
+correct label: 18	letter: S
+Iteration: 577
+
+prediction: 44
+correct label: 18	letter: S
+Iteration: 578
+
+prediction: 44
+correct label: 18	letter: S
+Iteration: 579
+
+prediction: 44
+correct label: 18	letter: S
+Iteration: 580
+
+prediction: 18
+correct label: 18	letter: s
+Iteration: 581
+
+prediction: 44
+correct label: 18	letter: S
+Iteration: 582
+
+prediction: 18
+correct label: 18	letter: s
+Iteration: 583
+
+prediction: 18
+correct label: 18	letter: s
+Iteration: 584
+
+prediction: 44
+correct label: 18	letter: S
+Iteration: 585
+
+prediction: 44
+correct label: 18	letter: S
+Iteration: 586
+
+prediction: 18
+correct label: 18	letter: s
+Iteration: 587
+
+prediction: 18
+correct label: 18	letter: s
+Iteration: 588
+
+prediction: 44
+correct label: 18	letter: S
+Iteration: 589
+
+prediction: 5
+correct label: 19	letter: f
+Iteration: 590
+
+prediction: 19
+correct label: 19	letter: t
+Iteration: 591
+
+prediction: 19
+correct label: 19	letter: t
+Iteration: 592
+
+prediction: 19
+correct label: 19	letter: t
+Iteration: 593
+
+prediction: 19
+correct label: 19	letter: t
+Iteration: 594
+
+prediction: 5
+correct label: 19	letter: f
+Iteration: 595
+
+prediction: 19
+correct label: 19	letter: t
+Iteration: 596
+
+prediction: 51
+correct label: 19	letter: Z
+Iteration: 597
+
+prediction: 19
+correct label: 19	letter: t
+Iteration: 598
+
+prediction: 49
+correct label: 19	letter: X
+Iteration: 599
+
+prediction: 19
+correct label: 19	letter: t
+Iteration: 600
+
+prediction: 50
+correct label: 19	letter: Y
+Iteration: 601
+
+prediction: 51
+correct label: 19	letter: Z
+Iteration: 602
+
+prediction: 49
+correct label: 19	letter: X
+Iteration: 603
+
+prediction: 19
+correct label: 19	letter: t
+Iteration: 604
+
+prediction: 7
+correct label: 19	letter: h
+Iteration: 605
+
+prediction: 50
+correct label: 19	letter: Y
+Iteration: 606
+
+prediction: 19
+correct label: 19	letter: t
+Iteration: 607
+
+prediction: 51
+correct label: 19	letter: Z
+Iteration: 608
+
+prediction: 19
+correct label: 19	letter: t
+Iteration: 609
+
+prediction: 19
+correct label: 19	letter: t
+Iteration: 610
+
+prediction: 50
+correct label: 19	letter: Y
+Iteration: 611
+
+prediction: 7
+correct label: 19	letter: h
+Iteration: 612
+
+prediction: 19
+correct label: 19	letter: t
+Iteration: 613
+
+prediction: 5
+correct label: 19	letter: f
+Iteration: 614
+
+prediction: 49
+correct label: 19	letter: X
+Iteration: 615
+
+prediction: 19
+correct label: 19	letter: t
+Iteration: 616
+
+prediction: 19
+correct label: 19	letter: t
+Iteration: 617
+
+prediction: 5
+correct label: 19	letter: f
+Iteration: 618
+
+prediction: 49
+correct label: 19	letter: X
+Iteration: 619
+
+prediction: 19
+correct label: 19	letter: t
+Iteration: 620
+
+prediction: 46
+correct label: 20	letter: U
+Iteration: 621
+
+prediction: 24
+correct label: 20	letter: y
+Iteration: 622
+
+prediction: 47
+correct label: 20	letter: V
+Iteration: 623
+
+prediction: 46
+correct label: 20	letter: U
+Iteration: 624
+
+prediction: 46
+correct label: 20	letter: U
+Iteration: 625
+
+prediction: 0
+correct label: 20	letter: a
+Iteration: 626
+
+prediction: 50
+correct label: 20	letter: Y
+Iteration: 627
+
+prediction: 46
+correct label: 20	letter: U
+Iteration: 628
+
+prediction: 50
+correct label: 20	letter: Y
+Iteration: 629
+
+prediction: 46
+correct label: 20	letter: U
+Iteration: 630
+
+prediction: 46
+correct label: 20	letter: U
+Iteration: 631
+
+prediction: 46
+correct label: 20	letter: U
+Iteration: 632
+
+prediction: 46
+correct label: 20	letter: U
+Iteration: 633
+
+prediction: 46
+correct label: 20	letter: U
+Iteration: 634
+
+prediction: 46
+correct label: 20	letter: U
+Iteration: 635
+
+prediction: 46
+correct label: 20	letter: U
+Iteration: 636
+
+prediction: 46
+correct label: 20	letter: U
+Iteration: 637
+
+prediction: 46
+correct label: 20	letter: U
+Iteration: 638
+
+prediction: 46
+correct label: 20	letter: U
+Iteration: 639
+
+prediction: 46
+correct label: 20	letter: U
+Iteration: 640
+
+prediction: 0
+correct label: 20	letter: a
+Iteration: 641
+
+prediction: 46
+correct label: 20	letter: U
+Iteration: 642
+
+prediction: 46
+correct label: 20	letter: U
+Iteration: 643
+
+prediction: 46
+correct label: 20	letter: U
+Iteration: 644
+
+prediction: 46
+correct label: 20	letter: U
+Iteration: 645
+
+prediction: 46
+correct label: 20	letter: U
+Iteration: 646
+
+prediction: 46
+correct label: 20	letter: U
+Iteration: 647
+
+prediction: 50
+correct label: 20	letter: Y
+Iteration: 648
+
+prediction: 50
+correct label: 20	letter: Y
+Iteration: 649
+
+prediction: 20
+correct label: 20	letter: u
+Iteration: 650
+
+prediction: 46
+correct label: 20	letter: U
+Iteration: 651
+
+prediction: 47
+correct label: 21	letter: V
+Iteration: 652
+
+prediction: 47
+correct label: 21	letter: V
+Iteration: 653
+
+prediction: 47
+correct label: 21	letter: V
+Iteration: 654
+
+prediction: 47
+correct label: 21	letter: V
+Iteration: 655
+
+prediction: 6
+correct label: 21	letter: g
+Iteration: 656
+
+prediction: 47
+correct label: 21	letter: V
+Iteration: 657
+
+prediction: 47
+correct label: 21	letter: V
+Iteration: 658
+
+prediction: 47
+correct label: 21	letter: V
+Iteration: 659
+
+prediction: 47
+correct label: 21	letter: V
+Iteration: 660
+
+prediction: 47
+correct label: 21	letter: V
+Iteration: 661
+
+prediction: 47
+correct label: 21	letter: V
+Iteration: 662
+
+prediction: 47
+correct label: 21	letter: V
+Iteration: 663
+
+prediction: 47
+correct label: 21	letter: V
+Iteration: 664
+
+prediction: 47
+correct label: 21	letter: V
+Iteration: 665
+
+prediction: 47
+correct label: 21	letter: V
+Iteration: 666
+
+prediction: 47
+correct label: 21	letter: V
+Iteration: 667
+
+prediction: 47
+correct label: 21	letter: V
+Iteration: 668
+
+prediction: 47
+correct label: 21	letter: V
+Iteration: 669
+
+prediction: 47
+correct label: 21	letter: V
+Iteration: 670
+
+prediction: 47
+correct label: 21	letter: V
+Iteration: 671
+
+prediction: 47
+correct label: 21	letter: V
+Iteration: 672
+
+prediction: 47
+correct label: 21	letter: V
+Iteration: 673
+
+prediction: 47
+correct label: 21	letter: V
+Iteration: 674
+
+prediction: 47
+correct label: 21	letter: V
+Iteration: 675
+
+prediction: 46
+correct label: 21	letter: U
+Iteration: 676
+
+prediction: 46
+correct label: 21	letter: U
+Iteration: 677
+
+prediction: 47
+correct label: 21	letter: V
+Iteration: 678
+
+prediction: 47
+correct label: 21	letter: V
+Iteration: 679
+
+prediction: 47
+correct label: 21	letter: V
+Iteration: 680
+
+prediction: 47
+correct label: 21	letter: V
+Iteration: 681
+
+prediction: 47
+correct label: 21	letter: V
+Iteration: 682
+
+prediction: 48
+correct label: 22	letter: W
+Iteration: 683
+
+prediction: 7
+correct label: 22	letter: h
+Iteration: 684
+
+prediction: 48
+correct label: 22	letter: W
+Iteration: 685
+
+prediction: 50
+correct label: 22	letter: Y
+Iteration: 686
+
+prediction: 48
+correct label: 22	letter: W
+Iteration: 687
+
+prediction: 7
+correct label: 22	letter: h
+Iteration: 688
+
+prediction: 48
+correct label: 22	letter: W
+Iteration: 689
+
+prediction: 48
+correct label: 22	letter: W
+Iteration: 690
+
+prediction: 48
+correct label: 22	letter: W
+Iteration: 691
+
+prediction: 48
+correct label: 22	letter: W
+Iteration: 692
+
+prediction: 48
+correct label: 22	letter: W
+Iteration: 693
+
+prediction: 48
+correct label: 22	letter: W
+Iteration: 694
+
+prediction: 48
+correct label: 22	letter: W
+Iteration: 695
+
+prediction: 48
+correct label: 22	letter: W
+Iteration: 696
+
+prediction: 48
+correct label: 22	letter: W
+Iteration: 697
+
+prediction: 48
+correct label: 22	letter: W
+Iteration: 698
+
+prediction: 48
+correct label: 22	letter: W
+Iteration: 699
+
+prediction: 48
+correct label: 22	letter: W
+Iteration: 700
+
+prediction: 48
+correct label: 22	letter: W
+Iteration: 701
+
+prediction: 48
+correct label: 22	letter: W
+Iteration: 702
+
+prediction: 48
+correct label: 22	letter: W
+Iteration: 703
+
+prediction: 48
+correct label: 22	letter: W
+Iteration: 704
+
+prediction: 48
+correct label: 22	letter: W
+Iteration: 705
+
+prediction: 48
+correct label: 22	letter: W
+Iteration: 706
+
+prediction: 48
+correct label: 22	letter: W
+Iteration: 707
+
+prediction: 48
+correct label: 22	letter: W
+Iteration: 708
+
+prediction: 48
+correct label: 22	letter: W
+Iteration: 709
+
+prediction: 48
+correct label: 22	letter: W
+Iteration: 710
+
+prediction: 48
+correct label: 22	letter: W
+Iteration: 711
+
+prediction: 48
+correct label: 22	letter: W
+Iteration: 712
+
+prediction: 48
+correct label: 22	letter: W
+Iteration: 713
+
+prediction: 5
+correct label: 23	letter: f
+Iteration: 714
+
+prediction: 5
+correct label: 23	letter: f
+Iteration: 715
+
+prediction: 24
+correct label: 23	letter: y
+Iteration: 716
+
+prediction: 49
+correct label: 23	letter: X
+Iteration: 717
+
+prediction: 49
+correct label: 23	letter: X
+Iteration: 718
+
+prediction: 50
+correct label: 23	letter: Y
+Iteration: 719
+
+prediction: 50
+correct label: 23	letter: Y
+Iteration: 720
+
+prediction: 26
+correct label: 23	letter: A
+Iteration: 721
+
+prediction: 50
+correct label: 23	letter: Y
+Iteration: 722
+
+prediction: 49
+correct label: 23	letter: X
+Iteration: 723
+
+prediction: 50
+correct label: 23	letter: Y
+Iteration: 724
+
+prediction: 49
+correct label: 23	letter: X
+Iteration: 725
+
+prediction: 49
+correct label: 23	letter: X
+Iteration: 726
+
+prediction: 49
+correct label: 23	letter: X
+Iteration: 727
+
+prediction: 50
+correct label: 23	letter: Y
+Iteration: 728
+
+prediction: 49
+correct label: 23	letter: X
+Iteration: 729
+
+prediction: 49
+correct label: 23	letter: X
+Iteration: 730
+
+prediction: 49
+correct label: 23	letter: X
+Iteration: 731
+
+prediction: 49
+correct label: 23	letter: X
+Iteration: 732
+
+prediction: 50
+correct label: 23	letter: Y
+Iteration: 733
+
+prediction: 24
+correct label: 23	letter: y
+Iteration: 734
+
+prediction: 23
+correct label: 23	letter: x
+Iteration: 735
+
+prediction: 49
+correct label: 23	letter: X
+Iteration: 736
+
+prediction: 26
+correct label: 23	letter: A
+Iteration: 737
+
+prediction: 49
+correct label: 23	letter: X
+Iteration: 738
+
+prediction: 50
+correct label: 23	letter: Y
+Iteration: 739
+
+prediction: 49
+correct label: 23	letter: X
+Iteration: 740
+
+prediction: 49
+correct label: 23	letter: X
+Iteration: 741
+
+prediction: 49
+correct label: 23	letter: X
+Iteration: 742
+
+prediction: 49
+correct label: 23	letter: X
+Iteration: 743
+
+prediction: 49
+correct label: 23	letter: X
+Iteration: 744
+
+prediction: 24
+correct label: 24	letter: y
+Iteration: 745
+
+prediction: 6
+correct label: 24	letter: g
+Iteration: 746
+
+prediction: 6
+correct label: 24	letter: g
+Iteration: 747
+
+prediction: 6
+correct label: 24	letter: g
+Iteration: 748
+
+prediction: 6
+correct label: 24	letter: g
+Iteration: 749
+
+prediction: 24
+correct label: 24	letter: y
+Iteration: 750
+
+prediction: 24
+correct label: 24	letter: y
+Iteration: 751
+
+prediction: 24
+correct label: 24	letter: y
+Iteration: 752
+
+prediction: 6
+correct label: 24	letter: g
+Iteration: 753
+
+prediction: 50
+correct label: 24	letter: Y
+Iteration: 754
+
+prediction: 24
+correct label: 24	letter: y
+Iteration: 755
+
+prediction: 6
+correct label: 24	letter: g
+Iteration: 756
+
+prediction: 50
+correct label: 24	letter: Y
+Iteration: 757
+
+prediction: 6
+correct label: 24	letter: g
+Iteration: 758
+
+prediction: 24
+correct label: 24	letter: y
+Iteration: 759
+
+prediction: 6
+correct label: 24	letter: g
+Iteration: 760
+
+prediction: 24
+correct label: 24	letter: y
+Iteration: 761
+
+prediction: 6
+correct label: 24	letter: g
+Iteration: 762
+
+prediction: 6
+correct label: 24	letter: g
+Iteration: 763
+
+prediction: 24
+correct label: 24	letter: y
+Iteration: 764
+
+prediction: 6
+correct label: 24	letter: g
+Iteration: 765
+
+prediction: 6
+correct label: 24	letter: g
+Iteration: 766
+
+prediction: 6
+correct label: 24	letter: g
+Iteration: 767
+
+prediction: 50
+correct label: 24	letter: Y
+Iteration: 768
+
+prediction: 24
+correct label: 24	letter: y
+Iteration: 769
+
+prediction: 6
+correct label: 24	letter: g
+Iteration: 770
+
+prediction: 6
+correct label: 24	letter: g
+Iteration: 771
+
+prediction: 6
+correct label: 24	letter: g
+Iteration: 772
+
+prediction: 24
+correct label: 24	letter: y
+Iteration: 773
+
+prediction: 6
+correct label: 24	letter: g
+Iteration: 774
+
+prediction: 6
+correct label: 24	letter: g
+Iteration: 775
+
+prediction: 51
+correct label: 25	letter: Z
+Iteration: 776
+
+prediction: 51
+correct label: 25	letter: Z
+Iteration: 777
+
+prediction: 51
+correct label: 25	letter: Z
+Iteration: 778
+
+prediction: 51
+correct label: 25	letter: Z
+Iteration: 779
+
+prediction: 51
+correct label: 25	letter: Z
+Iteration: 780
+
+prediction: 51
+correct label: 25	letter: Z
+Iteration: 781
+
+prediction: 51
+correct label: 25	letter: Z
+Iteration: 782
+
+prediction: 51
+correct label: 25	letter: Z
+Iteration: 783
+
+prediction: 51
+correct label: 25	letter: Z
+Iteration: 784
+
+prediction: 51
+correct label: 25	letter: Z
+Iteration: 785
+
+prediction: 51
+correct label: 25	letter: Z
+Iteration: 786
+
+prediction: 51
+correct label: 25	letter: Z
+Iteration: 787
+
+prediction: 51
+correct label: 25	letter: Z
+Iteration: 788
+
+prediction: 51
+correct label: 25	letter: Z
+Iteration: 789
+
+prediction: 51
+correct label: 25	letter: Z
+Iteration: 790
+
+prediction: 51
+correct label: 25	letter: Z
+Iteration: 791
+
+prediction: 51
+correct label: 25	letter: Z
+Iteration: 792
+
+prediction: 51
+correct label: 25	letter: Z
+Iteration: 793
+
+prediction: 51
+correct label: 25	letter: Z
+Iteration: 794
+
+prediction: 51
+correct label: 25	letter: Z
+Iteration: 795
+
+prediction: 51
+correct label: 25	letter: Z
+Iteration: 796
+
+prediction: 51
+correct label: 25	letter: Z
+Iteration: 797
+
+prediction: 51
+correct label: 25	letter: Z
+Iteration: 798
+
+prediction: 51
+correct label: 25	letter: Z
+Iteration: 799
+
+prediction: 51
+correct label: 25	letter: Z
+Iteration: 800
+
+prediction: 51
+correct label: 25	letter: Z
+Iteration: 801
+
+prediction: 51
+correct label: 25	letter: Z
+Iteration: 802
+
+prediction: 51
+correct label: 25	letter: Z
+Iteration: 803
+
+prediction: 51
+correct label: 25	letter: Z
+Iteration: 804
+
+prediction: 51
+correct label: 25	letter: Z
+Iteration: 805
+
+prediction: 51
+correct label: 25	letter: Z
+Iteration: 806
+
+prediction: 6
+correct label: 26	letter: g
+Iteration: 807
+
+prediction: 6
+correct label: 26	letter: g
+Iteration: 808
+
+prediction: 6
+correct label: 26	letter: g
+Iteration: 809
+
+prediction: 6
+correct label: 26	letter: g
+Iteration: 810
+
+prediction: 26
+correct label: 26	letter: A
+Iteration: 811
+
+prediction: 6
+correct label: 26	letter: g
+Iteration: 812
+
+prediction: 6
+correct label: 26	letter: g
+Iteration: 813
+
+prediction: 26
+correct label: 26	letter: A
+Iteration: 814
+
+prediction: 26
+correct label: 26	letter: A
+Iteration: 815
+
+prediction: 6
+correct label: 26	letter: g
+Iteration: 816
+
+prediction: 26
+correct label: 26	letter: A
+Iteration: 817
+
+prediction: 6
+correct label: 26	letter: g
+Iteration: 818
+
+prediction: 26
+correct label: 26	letter: A
+Iteration: 819
+
+prediction: 6
+correct label: 26	letter: g
+Iteration: 820
+
+prediction: 6
+correct label: 26	letter: g
+Iteration: 821
+
+prediction: 26
+correct label: 26	letter: A
+Iteration: 822
+
+prediction: 6
+correct label: 26	letter: g
+Iteration: 823
+
+prediction: 26
+correct label: 26	letter: A
+Iteration: 824
+
+prediction: 26
+correct label: 26	letter: A
+Iteration: 825
+
+prediction: 6
+correct label: 26	letter: g
+Iteration: 826
+
+prediction: 6
+correct label: 26	letter: g
+Iteration: 827
+
+prediction: 26
+correct label: 26	letter: A
+Iteration: 828
+
+prediction: 6
+correct label: 26	letter: g
+Iteration: 829
+
+prediction: 6
+correct label: 26	letter: g
+Iteration: 830
+
+prediction: 6
+correct label: 26	letter: g
+Iteration: 831
+
+prediction: 6
+correct label: 26	letter: g
+Iteration: 832
+
+prediction: 6
+correct label: 26	letter: g
+Iteration: 833
+
+prediction: 26
+correct label: 26	letter: A
+Iteration: 834
+
+prediction: 7
+correct label: 26	letter: h
+Iteration: 835
+
+prediction: 6
+correct label: 26	letter: g
+Iteration: 836
+
+prediction: 6
+correct label: 26	letter: g
+Iteration: 837
+
+prediction: 6
+correct label: 27	letter: g
+Iteration: 838
+
+prediction: 1
+correct label: 27	letter: b
+Iteration: 839
+
+prediction: 6
+correct label: 27	letter: g
+Iteration: 840
+
+prediction: 6
+correct label: 27	letter: g
+Iteration: 841
+
+prediction: 6
+correct label: 27	letter: g
+Iteration: 842
+
+prediction: 6
+correct label: 27	letter: g
+Iteration: 843
+
+prediction: 1
+correct label: 27	letter: b
+Iteration: 844
+
+prediction: 14
+correct label: 27	letter: o
+Iteration: 845
+
+prediction: 6
+correct label: 27	letter: g
+Iteration: 846
+
+prediction: 6
+correct label: 27	letter: g
+Iteration: 847
+
+prediction: 6
+correct label: 27	letter: g
+Iteration: 848
+
+prediction: 6
+correct label: 27	letter: g
+Iteration: 849
+
+prediction: 6
+correct label: 27	letter: g
+Iteration: 850
+
+prediction: 6
+correct label: 27	letter: g
+Iteration: 851
+
+prediction: 6
+correct label: 27	letter: g
+Iteration: 852
+
+prediction: 6
+correct label: 27	letter: g
+Iteration: 853
+
+prediction: 6
+correct label: 27	letter: g
+Iteration: 854
+
+prediction: 6
+correct label: 27	letter: g
+Iteration: 855
+
+prediction: 6
+correct label: 27	letter: g
+Iteration: 856
+
+prediction: 6
+correct label: 27	letter: g
+Iteration: 857
+
+prediction: 6
+correct label: 27	letter: g
+Iteration: 858
+
+prediction: 6
+correct label: 27	letter: g
+Iteration: 859
+
+prediction: 6
+correct label: 27	letter: g
+Iteration: 860
+
+prediction: 6
+correct label: 27	letter: g
+Iteration: 861
+
+prediction: 6
+correct label: 27	letter: g
+Iteration: 862
+
+prediction: 6
+correct label: 27	letter: g
+Iteration: 863
+
+prediction: 6
+correct label: 27	letter: g
+Iteration: 864
+
+prediction: 1
+correct label: 27	letter: b
+Iteration: 865
+
+prediction: 6
+correct label: 27	letter: g
+Iteration: 866
+
+prediction: 1
+correct label: 27	letter: b
+Iteration: 867
+
+prediction: 6
+correct label: 27	letter: g
+Iteration: 868
+
+prediction: 14
+correct label: 28	letter: o
+Iteration: 869
+
+prediction: 6
+correct label: 28	letter: g
+Iteration: 870
+
+prediction: 14
+correct label: 28	letter: o
+Iteration: 871
+
+prediction: 6
+correct label: 28	letter: g
+Iteration: 872
+
+prediction: 14
+correct label: 28	letter: o
+Iteration: 873
+
+prediction: 14
+correct label: 28	letter: o
+Iteration: 874
+
+prediction: 2
+correct label: 28	letter: c
+Iteration: 875
+
+prediction: 14
+correct label: 28	letter: o
+Iteration: 876
+
+prediction: 14
+correct label: 28	letter: o
+Iteration: 877
+
+prediction: 2
+correct label: 28	letter: c
+Iteration: 878
+
+prediction: 6
+correct label: 28	letter: g
+Iteration: 879
+
+prediction: 14
+correct label: 28	letter: o
+Iteration: 880
+
+prediction: 2
+correct label: 28	letter: c
+Iteration: 881
+
+prediction: 6
+correct label: 28	letter: g
+Iteration: 882
+
+prediction: 6
+correct label: 28	letter: g
+Iteration: 883
+
+prediction: 14
+correct label: 28	letter: o
+Iteration: 884
+
+prediction: 14
+correct label: 28	letter: o
+Iteration: 885
+
+prediction: 6
+correct label: 28	letter: g
+Iteration: 886
+
+prediction: 6
+correct label: 28	letter: g
+Iteration: 887
+
+prediction: 35
+correct label: 28	letter: J
+Iteration: 888
+
+prediction: 2
+correct label: 28	letter: c
+Iteration: 889
+
+prediction: 6
+correct label: 28	letter: g
+Iteration: 890
+
+prediction: 6
+correct label: 28	letter: g
+Iteration: 891
+
+prediction: 2
+correct label: 28	letter: c
+Iteration: 892
+
+prediction: 14
+correct label: 28	letter: o
+Iteration: 893
+
+prediction: 14
+correct label: 28	letter: o
+Iteration: 894
+
+prediction: 6
+correct label: 28	letter: g
+Iteration: 895
+
+prediction: 6
+correct label: 28	letter: g
+Iteration: 896
+
+prediction: 46
+correct label: 28	letter: U
+Iteration: 897
+
+prediction: 2
+correct label: 28	letter: c
+Iteration: 898
+
+prediction: 6
+correct label: 28	letter: g
+Iteration: 899
+
+prediction: 6
+correct label: 29	letter: g
+Iteration: 900
+
+prediction: 6
+correct label: 29	letter: g
+Iteration: 901
+
+prediction: 47
+correct label: 29	letter: V
+Iteration: 902
+
+prediction: 6
+correct label: 29	letter: g
+Iteration: 903
+
+prediction: 47
+correct label: 29	letter: V
+Iteration: 904
+
+prediction: 47
+correct label: 29	letter: V
+Iteration: 905
+
+prediction: 6
+correct label: 29	letter: g
+Iteration: 906
+
+prediction: 6
+correct label: 29	letter: g
+Iteration: 907
+
+prediction: 14
+correct label: 29	letter: o
+Iteration: 908
+
+prediction: 14
+correct label: 29	letter: o
+Iteration: 909
+
+prediction: 14
+correct label: 29	letter: o
+Iteration: 910
+
+prediction: 6
+correct label: 29	letter: g
+Iteration: 911
+
+prediction: 6
+correct label: 29	letter: g
+Iteration: 912
+
+prediction: 6
+correct label: 29	letter: g
+Iteration: 913
+
+prediction: 14
+correct label: 29	letter: o
+Iteration: 914
+
+prediction: 14
+correct label: 29	letter: o
+Iteration: 915
+
+prediction: 14
+correct label: 29	letter: o
+Iteration: 916
+
+prediction: 14
+correct label: 29	letter: o
+Iteration: 917
+
+prediction: 14
+correct label: 29	letter: o
+Iteration: 918
+
+prediction: 14
+correct label: 29	letter: o
+Iteration: 919
+
+prediction: 6
+correct label: 29	letter: g
+Iteration: 920
+
+prediction: 14
+correct label: 29	letter: o
+Iteration: 921
+
+prediction: 14
+correct label: 29	letter: o
+Iteration: 922
+
+prediction: 14
+correct label: 29	letter: o
+Iteration: 923
+
+prediction: 14
+correct label: 29	letter: o
+Iteration: 924
+
+prediction: 14
+correct label: 29	letter: o
+Iteration: 925
+
+prediction: 14
+correct label: 29	letter: o
+Iteration: 926
+
+prediction: 14
+correct label: 29	letter: o
+Iteration: 927
+
+prediction: 47
+correct label: 29	letter: V
+Iteration: 928
+
+prediction: 6
+correct label: 29	letter: g
+Iteration: 929
+
+prediction: 6
+correct label: 29	letter: g
+Iteration: 930
+
+prediction: 45
+correct label: 30	letter: T
+Iteration: 931
+
+prediction: 44
+correct label: 30	letter: S
+Iteration: 932
+
+prediction: 51
+correct label: 30	letter: Z
+Iteration: 933
+
+prediction: 1
+correct label: 30	letter: b
+Iteration: 934
+
+prediction: 2
+correct label: 30	letter: c
+Iteration: 935
+
+prediction: 44
+correct label: 30	letter: S
+Iteration: 936
+
+prediction: 2
+correct label: 30	letter: c
+Iteration: 937
+
+prediction: 51
+correct label: 30	letter: Z
+Iteration: 938
+
+prediction: 2
+correct label: 30	letter: c
+Iteration: 939
+
+prediction: 51
+correct label: 30	letter: Z
+Iteration: 940
+
+prediction: 2
+correct label: 30	letter: c
+Iteration: 941
+
+prediction: 51
+correct label: 30	letter: Z
+Iteration: 942
+
+prediction: 30
+correct label: 30	letter: E
+Iteration: 943
+
+prediction: 51
+correct label: 30	letter: Z
+Iteration: 944
+
+prediction: 2
+correct label: 30	letter: c
+Iteration: 945
+
+prediction: 44
+correct label: 30	letter: S
+Iteration: 946
+
+prediction: 45
+correct label: 30	letter: T
+Iteration: 947
+
+prediction: 2
+correct label: 30	letter: c
+Iteration: 948
+
+prediction: 44
+correct label: 30	letter: S
+Iteration: 949
+
+prediction: 44
+correct label: 30	letter: S
+Iteration: 950
+
+prediction: 51
+correct label: 30	letter: Z
+Iteration: 951
+
+prediction: 44
+correct label: 30	letter: S
+Iteration: 952
+
+prediction: 4
+correct label: 30	letter: e
+Iteration: 953
+
+prediction: 44
+correct label: 30	letter: S
+Iteration: 954
+
+prediction: 44
+correct label: 30	letter: S
+Iteration: 955
+
+prediction: 6
+correct label: 30	letter: g
+Iteration: 956
+
+prediction: 14
+correct label: 30	letter: o
+Iteration: 957
+
+prediction: 45
+correct label: 30	letter: T
+Iteration: 958
+
+prediction: 18
+correct label: 30	letter: s
+Iteration: 959
+
+prediction: 44
+correct label: 30	letter: S
+Iteration: 960
+
+prediction: 51
+correct label: 30	letter: Z
+Iteration: 961
+
+prediction: 7
+correct label: 31	letter: h
+Iteration: 962
+
+prediction: 45
+correct label: 31	letter: T
+Iteration: 963
+
+prediction: 6
+correct label: 31	letter: g
+Iteration: 964
+
+prediction: 41
+correct label: 31	letter: P
+Iteration: 965
+
+prediction: 6
+correct label: 31	letter: g
+Iteration: 966
+
+prediction: 6
+correct label: 31	letter: g
+Iteration: 967
+
+prediction: 6
+correct label: 31	letter: g
+Iteration: 968
+
+prediction: 41
+correct label: 31	letter: P
+Iteration: 969
+
+prediction: 41
+correct label: 31	letter: P
+Iteration: 970
+
+prediction: 7
+correct label: 31	letter: h
+Iteration: 971
+
+prediction: 6
+correct label: 31	letter: g
+Iteration: 972
+
+prediction: 6
+correct label: 31	letter: g
+Iteration: 973
+
+prediction: 41
+correct label: 31	letter: P
+Iteration: 974
+
+prediction: 6
+correct label: 31	letter: g
+Iteration: 975
+
+prediction: 6
+correct label: 31	letter: g
+Iteration: 976
+
+prediction: 6
+correct label: 31	letter: g
+Iteration: 977
+
+prediction: 6
+correct label: 31	letter: g
+Iteration: 978
+
+prediction: 6
+correct label: 31	letter: g
+Iteration: 979
+
+prediction: 41
+correct label: 31	letter: P
+Iteration: 980
+
+prediction: 6
+correct label: 31	letter: g
+Iteration: 981
+
+prediction: 45
+correct label: 31	letter: T
+Iteration: 982
+
+prediction: 41
+correct label: 31	letter: P
+Iteration: 983
+
+prediction: 7
+correct label: 31	letter: h
+Iteration: 984
+
+prediction: 41
+correct label: 31	letter: P
+Iteration: 985
+
+prediction: 45
+correct label: 31	letter: T
+Iteration: 986
+
+prediction: 7
+correct label: 31	letter: h
+Iteration: 987
+
+prediction: 6
+correct label: 31	letter: g
+Iteration: 988
+
+prediction: 45
+correct label: 31	letter: T
+Iteration: 989
+
+prediction: 41
+correct label: 31	letter: P
+Iteration: 990
+
+prediction: 6
+correct label: 31	letter: g
+Iteration: 991
+
+prediction: 6
+correct label: 31	letter: g
+Iteration: 992
+
+prediction: 6
+correct label: 32	letter: g
+Iteration: 993
+
+prediction: 6
+correct label: 32	letter: g
+Iteration: 994
+
+prediction: 9
+correct label: 32	letter: j
+Iteration: 995
+
+prediction: 6
+correct label: 32	letter: g
+Iteration: 996
+
+prediction: 6
+correct label: 32	letter: g
+Iteration: 997
+
+prediction: 6
+correct label: 32	letter: g
+Iteration: 998
+
+prediction: 6
+correct label: 32	letter: g
+Iteration: 999
+
+prediction: 6
+correct label: 32	letter: g
+Iteration: 1000
+
+prediction: 6
+correct label: 32	letter: g
+Iteration: 1001
+
+prediction: 6
+correct label: 32	letter: g
+Iteration: 1002
+
+prediction: 42
+correct label: 32	letter: Q
+Iteration: 1003
+
+prediction: 6
+correct label: 32	letter: g
+Iteration: 1004
+
+prediction: 44
+correct label: 32	letter: S
+Iteration: 1005
+
+prediction: 6
+correct label: 32	letter: g
+Iteration: 1006
+
+prediction: 6
+correct label: 32	letter: g
+Iteration: 1007
+
+prediction: 6
+correct label: 32	letter: g
+Iteration: 1008
+
+prediction: 6
+correct label: 32	letter: g
+Iteration: 1009
+
+prediction: 6
+correct label: 32	letter: g
+Iteration: 1010
+
+prediction: 6
+correct label: 32	letter: g
+Iteration: 1011
+
+prediction: 44
+correct label: 32	letter: S
+Iteration: 1012
+
+prediction: 6
+correct label: 32	letter: g
+Iteration: 1013
+
+prediction: 6
+correct label: 32	letter: g
+Iteration: 1014
+
+prediction: 6
+correct label: 32	letter: g
+Iteration: 1015
+
+prediction: 6
+correct label: 32	letter: g
+Iteration: 1016
+
+prediction: 42
+correct label: 32	letter: Q
+Iteration: 1017
+
+prediction: 6
+correct label: 32	letter: g
+Iteration: 1018
+
+prediction: 6
+correct label: 32	letter: g
+Iteration: 1019
+
+prediction: 9
+correct label: 32	letter: j
+Iteration: 1020
+
+prediction: 6
+correct label: 32	letter: g
+Iteration: 1021
+
+prediction: 6
+correct label: 32	letter: g
+Iteration: 1022
+
+prediction: 6
+correct label: 32	letter: g
+Iteration: 1023
+
+prediction: 6
+correct label: 33	letter: g
+Iteration: 1024
+
+prediction: 47
+correct label: 33	letter: V
+Iteration: 1025
+
+prediction: 7
+correct label: 33	letter: h
+Iteration: 1026
+
+prediction: 6
+correct label: 33	letter: g
+Iteration: 1027
+
+prediction: 6
+correct label: 33	letter: g
+Iteration: 1028
+
+prediction: 50
+correct label: 33	letter: Y
+Iteration: 1029
+
+prediction: 6
+correct label: 33	letter: g
+Iteration: 1030
+
+prediction: 7
+correct label: 33	letter: h
+Iteration: 1031
+
+prediction: 50
+correct label: 33	letter: Y
+Iteration: 1032
+
+prediction: 7
+correct label: 33	letter: h
+Iteration: 1033
+
+prediction: 7
+correct label: 33	letter: h
+Iteration: 1034
+
+prediction: 50
+correct label: 33	letter: Y
+Iteration: 1035
+
+prediction: 6
+correct label: 33	letter: g
+Iteration: 1036
+
+prediction: 7
+correct label: 33	letter: h
+Iteration: 1037
+
+prediction: 47
+correct label: 33	letter: V
+Iteration: 1038
+
+prediction: 14
+correct label: 33	letter: o
+Iteration: 1039
+
+prediction: 7
+correct label: 33	letter: h
+Iteration: 1040
+
+prediction: 7
+correct label: 33	letter: h
+Iteration: 1041
+
+prediction: 50
+correct label: 33	letter: Y
+Iteration: 1042
+
+prediction: 6
+correct label: 33	letter: g
+Iteration: 1043
+
+prediction: 7
+correct label: 33	letter: h
+Iteration: 1044
+
+prediction: 50
+correct label: 33	letter: Y
+Iteration: 1045
+
+prediction: 7
+correct label: 33	letter: h
+Iteration: 1046
+
+prediction: 50
+correct label: 33	letter: Y
+Iteration: 1047
+
+prediction: 6
+correct label: 33	letter: g
+Iteration: 1048
+
+prediction: 7
+correct label: 33	letter: h
+Iteration: 1049
+
+prediction: 26
+correct label: 33	letter: A
+Iteration: 1050
+
+prediction: 7
+correct label: 33	letter: h
+Iteration: 1051
+
+prediction: 46
+correct label: 33	letter: U
+Iteration: 1052
+
+prediction: 7
+correct label: 33	letter: h
+Iteration: 1053
+
+prediction: 7
+correct label: 33	letter: h
+Iteration: 1054
+
+prediction: 51
+correct label: 34	letter: Z
+Iteration: 1055
+
+prediction: 14
+correct label: 34	letter: o
+Iteration: 1056
+
+prediction: 44
+correct label: 34	letter: S
+Iteration: 1057
+
+prediction: 51
+correct label: 34	letter: Z
+Iteration: 1058
+
+prediction: 35
+correct label: 34	letter: J
+Iteration: 1059
+
+prediction: 35
+correct label: 34	letter: J
+Iteration: 1060
+
+prediction: 51
+correct label: 34	letter: Z
+Iteration: 1061
+
+prediction: 47
+correct label: 34	letter: V
+Iteration: 1062
+
+prediction: 51
+correct label: 34	letter: Z
+Iteration: 1063
+
+prediction: 51
+correct label: 34	letter: Z
+Iteration: 1064
+
+prediction: 51
+correct label: 34	letter: Z
+Iteration: 1065
+
+prediction: 51
+correct label: 34	letter: Z
+Iteration: 1066
+
+prediction: 51
+correct label: 34	letter: Z
+Iteration: 1067
+
+prediction: 51
+correct label: 34	letter: Z
+Iteration: 1068
+
+prediction: 34
+correct label: 34	letter: I
+Iteration: 1069
+
+prediction: 51
+correct label: 34	letter: Z
+Iteration: 1070
+
+prediction: 51
+correct label: 34	letter: Z
+Iteration: 1071
+
+prediction: 35
+correct label: 34	letter: J
+Iteration: 1072
+
+prediction: 34
+correct label: 34	letter: I
+Iteration: 1073
+
+prediction: 45
+correct label: 34	letter: T
+Iteration: 1074
+
+prediction: 47
+correct label: 34	letter: V
+Iteration: 1075
+
+prediction: 45
+correct label: 34	letter: T
+Iteration: 1076
+
+prediction: 35
+correct label: 34	letter: J
+Iteration: 1077
+
+prediction: 14
+correct label: 34	letter: o
+Iteration: 1078
+
+prediction: 14
+correct label: 34	letter: o
+Iteration: 1079
+
+prediction: 51
+correct label: 34	letter: Z
+Iteration: 1080
+
+prediction: 45
+correct label: 34	letter: T
+Iteration: 1081
+
+prediction: 51
+correct label: 34	letter: Z
+Iteration: 1082
+
+prediction: 51
+correct label: 34	letter: Z
+Iteration: 1083
+
+prediction: 45
+correct label: 34	letter: T
+Iteration: 1084
+
+prediction: 51
+correct label: 34	letter: Z
+Iteration: 1085
+
+prediction: 35
+correct label: 35	letter: J
+Iteration: 1086
+
+prediction: 6
+correct label: 35	letter: g
+Iteration: 1087
+
+prediction: 35
+correct label: 35	letter: J
+Iteration: 1088
+
+prediction: 35
+correct label: 35	letter: J
+Iteration: 1089
+
+prediction: 6
+correct label: 35	letter: g
+Iteration: 1090
+
+prediction: 35
+correct label: 35	letter: J
+Iteration: 1091
+
+prediction: 45
+correct label: 35	letter: T
+Iteration: 1092
+
+prediction: 35
+correct label: 35	letter: J
+Iteration: 1093
+
+prediction: 35
+correct label: 35	letter: J
+Iteration: 1094
+
+prediction: 35
+correct label: 35	letter: J
+Iteration: 1095
+
+prediction: 35
+correct label: 35	letter: J
+Iteration: 1096
+
+prediction: 6
+correct label: 35	letter: g
+Iteration: 1097
+
+prediction: 6
+correct label: 35	letter: g
+Iteration: 1098
+
+prediction: 35
+correct label: 35	letter: J
+Iteration: 1099
+
+prediction: 35
+correct label: 35	letter: J
+Iteration: 1100
+
+prediction: 6
+correct label: 35	letter: g
+Iteration: 1101
+
+prediction: 6
+correct label: 35	letter: g
+Iteration: 1102
+
+prediction: 6
+correct label: 35	letter: g
+Iteration: 1103
+
+prediction: 6
+correct label: 35	letter: g
+Iteration: 1104
+
+prediction: 45
+correct label: 35	letter: T
+Iteration: 1105
+
+prediction: 35
+correct label: 35	letter: J
+Iteration: 1106
+
+prediction: 6
+correct label: 35	letter: g
+Iteration: 1107
+
+prediction: 35
+correct label: 35	letter: J
+Iteration: 1108
+
+prediction: 6
+correct label: 35	letter: g
+Iteration: 1109
+
+prediction: 35
+correct label: 35	letter: J
+Iteration: 1110
+
+prediction: 6
+correct label: 35	letter: g
+Iteration: 1111
+
+prediction: 6
+correct label: 35	letter: g
+Iteration: 1112
+
+prediction: 6
+correct label: 35	letter: g
+Iteration: 1113
+
+prediction: 35
+correct label: 35	letter: J
+Iteration: 1114
+
+prediction: 6
+correct label: 35	letter: g
+Iteration: 1115
+
+prediction: 6
+correct label: 35	letter: g
+Iteration: 1116
+
+prediction: 5
+correct label: 36	letter: f
+Iteration: 1117
+
+prediction: 45
+correct label: 36	letter: T
+Iteration: 1118
+
+prediction: 5
+correct label: 36	letter: f
+Iteration: 1119
+
+prediction: 47
+correct label: 36	letter: V
+Iteration: 1120
+
+prediction: 10
+correct label: 36	letter: k
+Iteration: 1121
+
+prediction: 7
+correct label: 36	letter: h
+Iteration: 1122
+
+prediction: 47
+correct label: 36	letter: V
+Iteration: 1123
+
+prediction: 15
+correct label: 36	letter: p
+Iteration: 1124
+
+prediction: 7
+correct label: 36	letter: h
+Iteration: 1125
+
+prediction: 15
+correct label: 36	letter: p
+Iteration: 1126
+
+prediction: 7
+correct label: 36	letter: h
+Iteration: 1127
+
+prediction: 15
+correct label: 36	letter: p
+Iteration: 1128
+
+prediction: 15
+correct label: 36	letter: p
+Iteration: 1129
+
+prediction: 12
+correct label: 36	letter: m
+Iteration: 1130
+
+prediction: 7
+correct label: 36	letter: h
+Iteration: 1131
+
+prediction: 7
+correct label: 36	letter: h
+Iteration: 1132
+
+prediction: 15
+correct label: 36	letter: p
+Iteration: 1133
+
+prediction: 7
+correct label: 36	letter: h
+Iteration: 1134
+
+prediction: 7
+correct label: 36	letter: h
+Iteration: 1135
+
+prediction: 36
+correct label: 36	letter: K
+Iteration: 1136
+
+prediction: 7
+correct label: 36	letter: h
+Iteration: 1137
+
+prediction: 6
+correct label: 36	letter: g
+Iteration: 1138
+
+prediction: 7
+correct label: 36	letter: h
+Iteration: 1139
+
+prediction: 47
+correct label: 36	letter: V
+Iteration: 1140
+
+prediction: 15
+correct label: 36	letter: p
+Iteration: 1141
+
+prediction: 10
+correct label: 36	letter: k
+Iteration: 1142
+
+prediction: 7
+correct label: 36	letter: h
+Iteration: 1143
+
+prediction: 7
+correct label: 36	letter: h
+Iteration: 1144
+
+prediction: 7
+correct label: 36	letter: h
+Iteration: 1145
+
+prediction: 7
+correct label: 36	letter: h
+Iteration: 1146
+
+prediction: 47
+correct label: 36	letter: V
+Iteration: 1147
+
+prediction: 46
+correct label: 37	letter: U
+Iteration: 1148
+
+prediction: 2
+correct label: 37	letter: c
+Iteration: 1149
+
+prediction: 47
+correct label: 37	letter: V
+Iteration: 1150
+
+prediction: 2
+correct label: 37	letter: c
+Iteration: 1151
+
+prediction: 2
+correct label: 37	letter: c
+Iteration: 1152
+
+prediction: 46
+correct label: 37	letter: U
+Iteration: 1153
+
+prediction: 2
+correct label: 37	letter: c
+Iteration: 1154
+
+prediction: 46
+correct label: 37	letter: U
+Iteration: 1155
+
+prediction: 47
+correct label: 37	letter: V
+Iteration: 1156
+
+prediction: 46
+correct label: 37	letter: U
+Iteration: 1157
+
+prediction: 46
+correct label: 37	letter: U
+Iteration: 1158
+
+prediction: 46
+correct label: 37	letter: U
+Iteration: 1159
+
+prediction: 46
+correct label: 37	letter: U
+Iteration: 1160
+
+prediction: 46
+correct label: 37	letter: U
+Iteration: 1161
+
+prediction: 2
+correct label: 37	letter: c
+Iteration: 1162
+
+prediction: 46
+correct label: 37	letter: U
+Iteration: 1163
+
+prediction: 46
+correct label: 37	letter: U
+Iteration: 1164
+
+prediction: 46
+correct label: 37	letter: U
+Iteration: 1165
+
+prediction: 2
+correct label: 37	letter: c
+Iteration: 1166
+
+prediction: 47
+correct label: 37	letter: V
+Iteration: 1167
+
+prediction: 6
+correct label: 37	letter: g
+Iteration: 1168
+
+prediction: 46
+correct label: 37	letter: U
+Iteration: 1169
+
+prediction: 2
+correct label: 37	letter: c
+Iteration: 1170
+
+prediction: 46
+correct label: 37	letter: U
+Iteration: 1171
+
+prediction: 47
+correct label: 37	letter: V
+Iteration: 1172
+
+prediction: 2
+correct label: 37	letter: c
+Iteration: 1173
+
+prediction: 47
+correct label: 37	letter: V
+Iteration: 1174
+
+prediction: 2
+correct label: 37	letter: c
+Iteration: 1175
+
+prediction: 2
+correct label: 37	letter: c
+Iteration: 1176
+
+prediction: 47
+correct label: 37	letter: V
+Iteration: 1177
+
+prediction: 47
+correct label: 37	letter: V
+Iteration: 1178
+
+prediction: 6
+correct label: 38	letter: g
+Iteration: 1179
+
+prediction: 47
+correct label: 38	letter: V
+Iteration: 1180
+
+prediction: 6
+correct label: 38	letter: g
+Iteration: 1181
+
+prediction: 50
+correct label: 38	letter: Y
+Iteration: 1182
+
+prediction: 6
+correct label: 38	letter: g
+Iteration: 1183
+
+prediction: 6
+correct label: 38	letter: g
+Iteration: 1184
+
+prediction: 50
+correct label: 38	letter: Y
+Iteration: 1185
+
+prediction: 6
+correct label: 38	letter: g
+Iteration: 1186
+
+prediction: 47
+correct label: 38	letter: V
+Iteration: 1187
+
+prediction: 6
+correct label: 38	letter: g
+Iteration: 1188
+
+prediction: 6
+correct label: 38	letter: g
+Iteration: 1189
+
+prediction: 47
+correct label: 38	letter: V
+Iteration: 1190
+
+prediction: 47
+correct label: 38	letter: V
+Iteration: 1191
+
+prediction: 6
+correct label: 38	letter: g
+Iteration: 1192
+
+prediction: 6
+correct label: 38	letter: g
+Iteration: 1193
+
+prediction: 50
+correct label: 38	letter: Y
+Iteration: 1194
+
+prediction: 6
+correct label: 38	letter: g
+Iteration: 1195
+
+prediction: 6
+correct label: 38	letter: g
+Iteration: 1196
+
+prediction: 6
+correct label: 38	letter: g
+Iteration: 1197
+
+prediction: 6
+correct label: 38	letter: g
+Iteration: 1198
+
+prediction: 6
+correct label: 38	letter: g
+Iteration: 1199
+
+prediction: 50
+correct label: 38	letter: Y
+Iteration: 1200
+
+prediction: 7
+correct label: 38	letter: h
+Iteration: 1201
+
+prediction: 6
+correct label: 38	letter: g
+Iteration: 1202
+
+prediction: 6
+correct label: 38	letter: g
+Iteration: 1203
+
+prediction: 6
+correct label: 38	letter: g
+Iteration: 1204
+
+prediction: 50
+correct label: 38	letter: Y
+Iteration: 1205
+
+prediction: 47
+correct label: 38	letter: V
+Iteration: 1206
+
+prediction: 7
+correct label: 38	letter: h
+Iteration: 1207
+
+prediction: 6
+correct label: 38	letter: g
+Iteration: 1208
+
+prediction: 50
+correct label: 38	letter: Y
+Iteration: 1209
+
+prediction: 47
+correct label: 39	letter: V
+Iteration: 1210
+
+prediction: 47
+correct label: 39	letter: V
+Iteration: 1211
+
+prediction: 6
+correct label: 39	letter: g
+Iteration: 1212
+
+prediction: 47
+correct label: 39	letter: V
+Iteration: 1213
+
+prediction: 6
+correct label: 39	letter: g
+Iteration: 1214
+
+prediction: 14
+correct label: 39	letter: o
+Iteration: 1215
+
+prediction: 47
+correct label: 39	letter: V
+Iteration: 1216
+
+prediction: 7
+correct label: 39	letter: h
+Iteration: 1217
+
+prediction: 14
+correct label: 39	letter: o
+Iteration: 1218
+
+prediction: 47
+correct label: 39	letter: V
+Iteration: 1219
+
+prediction: 7
+correct label: 39	letter: h
+Iteration: 1220
+
+prediction: 47
+correct label: 39	letter: V
+Iteration: 1221
+
+prediction: 7
+correct label: 39	letter: h
+Iteration: 1222
+
+prediction: 7
+correct label: 39	letter: h
+Iteration: 1223
+
+prediction: 6
+correct label: 39	letter: g
+Iteration: 1224
+
+prediction: 7
+correct label: 39	letter: h
+Iteration: 1225
+
+prediction: 50
+correct label: 39	letter: Y
+Iteration: 1226
+
+prediction: 7
+correct label: 39	letter: h
+Iteration: 1227
+
+prediction: 12
+correct label: 39	letter: m
+Iteration: 1228
+
+prediction: 47
+correct label: 39	letter: V
+Iteration: 1229
+
+prediction: 47
+correct label: 39	letter: V
+Iteration: 1230
+
+prediction: 46
+correct label: 39	letter: U
+Iteration: 1231
+
+prediction: 39
+correct label: 39	letter: N
+Iteration: 1232
+
+prediction: 7
+correct label: 39	letter: h
+Iteration: 1233
+
+prediction: 47
+correct label: 39	letter: V
+Iteration: 1234
+
+prediction: 7
+correct label: 39	letter: h
+Iteration: 1235
+
+prediction: 47
+correct label: 39	letter: V
+Iteration: 1236
+
+prediction: 47
+correct label: 39	letter: V
+Iteration: 1237
+
+prediction: 14
+correct label: 39	letter: o
+Iteration: 1238
+
+prediction: 47
+correct label: 39	letter: V
+Iteration: 1239
+
+prediction: 47
+correct label: 39	letter: V
+Iteration: 1240
+
+prediction: 6
+correct label: 40	letter: g
+Iteration: 1241
+
+prediction: 14
+correct label: 40	letter: o
+Iteration: 1242
+
+prediction: 14
+correct label: 40	letter: o
+Iteration: 1243
+
+prediction: 14
+correct label: 40	letter: o
+Iteration: 1244
+
+prediction: 14
+correct label: 40	letter: o
+Iteration: 1245
+
+prediction: 6
+correct label: 40	letter: g
+Iteration: 1246
+
+prediction: 46
+correct label: 40	letter: U
+Iteration: 1247
+
+prediction: 14
+correct label: 40	letter: o
+Iteration: 1248
+
+prediction: 6
+correct label: 40	letter: g
+Iteration: 1249
+
+prediction: 14
+correct label: 40	letter: o
+Iteration: 1250
+
+prediction: 6
+correct label: 40	letter: g
+Iteration: 1251
+
+prediction: 14
+correct label: 40	letter: o
+Iteration: 1252
+
+prediction: 14
+correct label: 40	letter: o
+Iteration: 1253
+
+prediction: 14
+correct label: 40	letter: o
+Iteration: 1254
+
+prediction: 6
+correct label: 40	letter: g
+Iteration: 1255
+
+prediction: 14
+correct label: 40	letter: o
+Iteration: 1256
+
+prediction: 14
+correct label: 40	letter: o
+Iteration: 1257
+
+prediction: 14
+correct label: 40	letter: o
+Iteration: 1258
+
+prediction: 6
+correct label: 40	letter: g
+Iteration: 1259
+
+prediction: 14
+correct label: 40	letter: o
+Iteration: 1260
+
+prediction: 14
+correct label: 40	letter: o
+Iteration: 1261
+
+prediction: 14
+correct label: 40	letter: o
+Iteration: 1262
+
+prediction: 46
+correct label: 40	letter: U
+Iteration: 1263
+
+prediction: 14
+correct label: 40	letter: o
+Iteration: 1264
+
+prediction: 6
+correct label: 40	letter: g
+Iteration: 1265
+
+prediction: 6
+correct label: 40	letter: g
+Iteration: 1266
+
+prediction: 14
+correct label: 40	letter: o
+Iteration: 1267
+
+prediction: 6
+correct label: 40	letter: g
+Iteration: 1268
+
+prediction: 14
+correct label: 40	letter: o
+Iteration: 1269
+
+prediction: 14
+correct label: 40	letter: o
+Iteration: 1270
+
+prediction: 14
+correct label: 40	letter: o
+Iteration: 1271
+
+prediction: 47
+correct label: 41	letter: V
+Iteration: 1272
+
+prediction: 41
+correct label: 41	letter: P
+Iteration: 1273
+
+prediction: 41
+correct label: 41	letter: P
+Iteration: 1274
+
+prediction: 6
+correct label: 41	letter: g
+Iteration: 1275
+
+prediction: 6
+correct label: 41	letter: g
+Iteration: 1276
+
+prediction: 41
+correct label: 41	letter: P
+Iteration: 1277
+
+prediction: 6
+correct label: 41	letter: g
+Iteration: 1278
+
+prediction: 6
+correct label: 41	letter: g
+Iteration: 1279
+
+prediction: 49
+correct label: 41	letter: X
+Iteration: 1280
+
+prediction: 6
+correct label: 41	letter: g
+Iteration: 1281
+
+prediction: 6
+correct label: 41	letter: g
+Iteration: 1282
+
+prediction: 41
+correct label: 41	letter: P
+Iteration: 1283
+
+prediction: 41
+correct label: 41	letter: P
+Iteration: 1284
+
+prediction: 41
+correct label: 41	letter: P
+Iteration: 1285
+
+prediction: 6
+correct label: 41	letter: g
+Iteration: 1286
+
+prediction: 41
+correct label: 41	letter: P
+Iteration: 1287
+
+prediction: 41
+correct label: 41	letter: P
+Iteration: 1288
+
+prediction: 6
+correct label: 41	letter: g
+Iteration: 1289
+
+prediction: 6
+correct label: 41	letter: g
+Iteration: 1290
+
+prediction: 41
+correct label: 41	letter: P
+Iteration: 1291
+
+prediction: 6
+correct label: 41	letter: g
+Iteration: 1292
+
+prediction: 47
+correct label: 41	letter: V
+Iteration: 1293
+
+prediction: 6
+correct label: 41	letter: g
+Iteration: 1294
+
+prediction: 41
+correct label: 41	letter: P
+Iteration: 1295
+
+prediction: 6
+correct label: 41	letter: g
+Iteration: 1296
+
+prediction: 41
+correct label: 41	letter: P
+Iteration: 1297
+
+prediction: 41
+correct label: 41	letter: P
+Iteration: 1298
+
+prediction: 41
+correct label: 41	letter: P
+Iteration: 1299
+
+prediction: 41
+correct label: 41	letter: P
+Iteration: 1300
+
+prediction: 41
+correct label: 41	letter: P
+Iteration: 1301
+
+prediction: 41
+correct label: 41	letter: P
+Iteration: 1302
+
+prediction: 42
+correct label: 42	letter: Q
+Iteration: 1303
+
+prediction: 42
+correct label: 42	letter: Q
+Iteration: 1304
+
+prediction: 47
+correct label: 42	letter: V
+Iteration: 1305
+
+prediction: 6
+correct label: 42	letter: g
+Iteration: 1306
+
+prediction: 14
+correct label: 42	letter: o
+Iteration: 1307
+
+prediction: 42
+correct label: 42	letter: Q
+Iteration: 1308
+
+prediction: 42
+correct label: 42	letter: Q
+Iteration: 1309
+
+prediction: 42
+correct label: 42	letter: Q
+Iteration: 1310
+
+prediction: 14
+correct label: 42	letter: o
+Iteration: 1311
+
+prediction: 42
+correct label: 42	letter: Q
+Iteration: 1312
+
+prediction: 6
+correct label: 42	letter: g
+Iteration: 1313
+
+prediction: 42
+correct label: 42	letter: Q
+Iteration: 1314
+
+prediction: 42
+correct label: 42	letter: Q
+Iteration: 1315
+
+prediction: 42
+correct label: 42	letter: Q
+Iteration: 1316
+
+prediction: 42
+correct label: 42	letter: Q
+Iteration: 1317
+
+prediction: 42
+correct label: 42	letter: Q
+Iteration: 1318
+
+prediction: 42
+correct label: 42	letter: Q
+Iteration: 1319
+
+prediction: 42
+correct label: 42	letter: Q
+Iteration: 1320
+
+prediction: 42
+correct label: 42	letter: Q
+Iteration: 1321
+
+prediction: 42
+correct label: 42	letter: Q
+Iteration: 1322
+
+prediction: 42
+correct label: 42	letter: Q
+Iteration: 1323
+
+prediction: 42
+correct label: 42	letter: Q
+Iteration: 1324
+
+prediction: 42
+correct label: 42	letter: Q
+Iteration: 1325
+
+prediction: 6
+correct label: 42	letter: g
+Iteration: 1326
+
+prediction: 42
+correct label: 42	letter: Q
+Iteration: 1327
+
+prediction: 42
+correct label: 42	letter: Q
+Iteration: 1328
+
+prediction: 42
+correct label: 42	letter: Q
+Iteration: 1329
+
+prediction: 42
+correct label: 42	letter: Q
+Iteration: 1330
+
+prediction: 42
+correct label: 42	letter: Q
+Iteration: 1331
+
+prediction: 42
+correct label: 42	letter: Q
+Iteration: 1332
+
+prediction: 42
+correct label: 42	letter: Q
+Iteration: 1333
+
+prediction: 41
+correct label: 43	letter: P
+Iteration: 1334
+
+prediction: 43
+correct label: 43	letter: R
+Iteration: 1335
+
+prediction: 41
+correct label: 43	letter: P
+Iteration: 1336
+
+prediction: 43
+correct label: 43	letter: R
+Iteration: 1337
+
+prediction: 41
+correct label: 43	letter: P
+Iteration: 1338
+
+prediction: 41
+correct label: 43	letter: P
+Iteration: 1339
+
+prediction: 43
+correct label: 43	letter: R
+Iteration: 1340
+
+prediction: 6
+correct label: 43	letter: g
+Iteration: 1341
+
+prediction: 41
+correct label: 43	letter: P
+Iteration: 1342
+
+prediction: 43
+correct label: 43	letter: R
+Iteration: 1343
+
+prediction: 44
+correct label: 43	letter: S
+Iteration: 1344
+
+prediction: 43
+correct label: 43	letter: R
+Iteration: 1345
+
+prediction: 5
+correct label: 43	letter: f
+Iteration: 1346
+
+prediction: 6
+correct label: 43	letter: g
+Iteration: 1347
+
+prediction: 43
+correct label: 43	letter: R
+Iteration: 1348
+
+prediction: 45
+correct label: 43	letter: T
+Iteration: 1349
+
+prediction: 43
+correct label: 43	letter: R
+Iteration: 1350
+
+prediction: 45
+correct label: 43	letter: T
+Iteration: 1351
+
+prediction: 43
+correct label: 43	letter: R
+Iteration: 1352
+
+prediction: 47
+correct label: 43	letter: V
+Iteration: 1353
+
+prediction: 18
+correct label: 43	letter: s
+Iteration: 1354
+
+prediction: 44
+correct label: 43	letter: S
+Iteration: 1355
+
+prediction: 41
+correct label: 43	letter: P
+Iteration: 1356
+
+prediction: 43
+correct label: 43	letter: R
+Iteration: 1357
+
+prediction: 10
+correct label: 43	letter: k
+Iteration: 1358
+
+prediction: 43
+correct label: 43	letter: R
+Iteration: 1359
+
+prediction: 47
+correct label: 43	letter: V
+Iteration: 1360
+
+prediction: 44
+correct label: 43	letter: S
+Iteration: 1361
+
+prediction: 15
+correct label: 43	letter: p
+Iteration: 1362
+
+prediction: 15
+correct label: 43	letter: p
+Iteration: 1363
+
+prediction: 41
+correct label: 43	letter: P
+Iteration: 1364
+
+prediction: 18
+correct label: 44	letter: s
+Iteration: 1365
+
+prediction: 44
+correct label: 44	letter: S
+Iteration: 1366
+
+prediction: 44
+correct label: 44	letter: S
+Iteration: 1367
+
+prediction: 44
+correct label: 44	letter: S
+Iteration: 1368
+
+prediction: 47
+correct label: 44	letter: V
+Iteration: 1369
+
+prediction: 47
+correct label: 44	letter: V
+Iteration: 1370
+
+prediction: 44
+correct label: 44	letter: S
+Iteration: 1371
+
+prediction: 6
+correct label: 44	letter: g
+Iteration: 1372
+
+prediction: 6
+correct label: 44	letter: g
+Iteration: 1373
+
+prediction: 47
+correct label: 44	letter: V
+Iteration: 1374
+
+prediction: 18
+correct label: 44	letter: s
+Iteration: 1375
+
+prediction: 44
+correct label: 44	letter: S
+Iteration: 1376
+
+prediction: 44
+correct label: 44	letter: S
+Iteration: 1377
+
+prediction: 44
+correct label: 44	letter: S
+Iteration: 1378
+
+prediction: 47
+correct label: 44	letter: V
+Iteration: 1379
+
+prediction: 44
+correct label: 44	letter: S
+Iteration: 1380
+
+prediction: 44
+correct label: 44	letter: S
+Iteration: 1381
+
+prediction: 47
+correct label: 44	letter: V
+Iteration: 1382
+
+prediction: 18
+correct label: 44	letter: s
+Iteration: 1383
+
+prediction: 44
+correct label: 44	letter: S
+Iteration: 1384
+
+prediction: 6
+correct label: 44	letter: g
+Iteration: 1385
+
+prediction: 44
+correct label: 44	letter: S
+Iteration: 1386
+
+prediction: 44
+correct label: 44	letter: S
+Iteration: 1387
+
+prediction: 47
+correct label: 44	letter: V
+Iteration: 1388
+
+prediction: 44
+correct label: 44	letter: S
+Iteration: 1389
+
+prediction: 44
+correct label: 44	letter: S
+Iteration: 1390
+
+prediction: 47
+correct label: 44	letter: V
+Iteration: 1391
+
+prediction: 44
+correct label: 44	letter: S
+Iteration: 1392
+
+prediction: 18
+correct label: 44	letter: s
+Iteration: 1393
+
+prediction: 18
+correct label: 44	letter: s
+Iteration: 1394
+
+prediction: 44
+correct label: 44	letter: S
+Iteration: 1395
+
+prediction: 45
+correct label: 45	letter: T
+Iteration: 1396
+
+prediction: 45
+correct label: 45	letter: T
+Iteration: 1397
+
+prediction: 45
+correct label: 45	letter: T
+Iteration: 1398
+
+prediction: 45
+correct label: 45	letter: T
+Iteration: 1399
+
+prediction: 45
+correct label: 45	letter: T
+Iteration: 1400
+
+prediction: 45
+correct label: 45	letter: T
+Iteration: 1401
+
+prediction: 45
+correct label: 45	letter: T
+Iteration: 1402
+
+prediction: 45
+correct label: 45	letter: T
+Iteration: 1403
+
+prediction: 45
+correct label: 45	letter: T
+Iteration: 1404
+
+prediction: 45
+correct label: 45	letter: T
+Iteration: 1405
+
+prediction: 45
+correct label: 45	letter: T
+Iteration: 1406
+
+prediction: 45
+correct label: 45	letter: T
+Iteration: 1407
+
+prediction: 45
+correct label: 45	letter: T
+Iteration: 1408
+
+prediction: 45
+correct label: 45	letter: T
+Iteration: 1409
+
+prediction: 45
+correct label: 45	letter: T
+Iteration: 1410
+
+prediction: 6
+correct label: 45	letter: g
+Iteration: 1411
+
+prediction: 45
+correct label: 45	letter: T
+Iteration: 1412
+
+prediction: 45
+correct label: 45	letter: T
+Iteration: 1413
+
+prediction: 45
+correct label: 45	letter: T
+Iteration: 1414
+
+prediction: 45
+correct label: 45	letter: T
+Iteration: 1415
+
+prediction: 45
+correct label: 45	letter: T
+Iteration: 1416
+
+prediction: 45
+correct label: 45	letter: T
+Iteration: 1417
+
+prediction: 45
+correct label: 45	letter: T
+Iteration: 1418
+
+prediction: 45
+correct label: 45	letter: T
+Iteration: 1419
+
+prediction: 45
+correct label: 45	letter: T
+Iteration: 1420
+
+prediction: 45
+correct label: 45	letter: T
+Iteration: 1421
+
+prediction: 45
+correct label: 45	letter: T
+Iteration: 1422
+
+prediction: 45
+correct label: 45	letter: T
+Iteration: 1423
+
+prediction: 45
+correct label: 45	letter: T
+Iteration: 1424
+
+prediction: 45
+correct label: 45	letter: T
+Iteration: 1425
+
+prediction: 45
+correct label: 45	letter: T
+Iteration: 1426
+
+prediction: 46
+correct label: 46	letter: U
+Iteration: 1427
+
+prediction: 46
+correct label: 46	letter: U
+Iteration: 1428
+
+prediction: 46
+correct label: 46	letter: U
+Iteration: 1429
+
+prediction: 46
+correct label: 46	letter: U
+Iteration: 1430
+
+prediction: 46
+correct label: 46	letter: U
+Iteration: 1431
+
+prediction: 46
+correct label: 46	letter: U
+Iteration: 1432
+
+prediction: 46
+correct label: 46	letter: U
+Iteration: 1433
+
+prediction: 46
+correct label: 46	letter: U
+Iteration: 1434
+
+prediction: 46
+correct label: 46	letter: U
+Iteration: 1435
+
+prediction: 46
+correct label: 46	letter: U
+Iteration: 1436
+
+prediction: 46
+correct label: 46	letter: U
+Iteration: 1437
+
+prediction: 46
+correct label: 46	letter: U
+Iteration: 1438
+
+prediction: 46
+correct label: 46	letter: U
+Iteration: 1439
+
+prediction: 46
+correct label: 46	letter: U
+Iteration: 1440
+
+prediction: 46
+correct label: 46	letter: U
+Iteration: 1441
+
+prediction: 46
+correct label: 46	letter: U
+Iteration: 1442
+
+prediction: 46
+correct label: 46	letter: U
+Iteration: 1443
+
+prediction: 46
+correct label: 46	letter: U
+Iteration: 1444
+
+prediction: 46
+correct label: 46	letter: U
+Iteration: 1445
+
+prediction: 46
+correct label: 46	letter: U
+Iteration: 1446
+
+prediction: 46
+correct label: 46	letter: U
+Iteration: 1447
+
+prediction: 46
+correct label: 46	letter: U
+Iteration: 1448
+
+prediction: 46
+correct label: 46	letter: U
+Iteration: 1449
+
+prediction: 46
+correct label: 46	letter: U
+Iteration: 1450
+
+prediction: 46
+correct label: 46	letter: U
+Iteration: 1451
+
+prediction: 46
+correct label: 46	letter: U
+Iteration: 1452
+
+prediction: 46
+correct label: 46	letter: U
+Iteration: 1453
+
+prediction: 46
+correct label: 46	letter: U
+Iteration: 1454
+
+prediction: 46
+correct label: 46	letter: U
+Iteration: 1455
+
+prediction: 46
+correct label: 46	letter: U
+Iteration: 1456
+
+prediction: 46
+correct label: 46	letter: U
+Iteration: 1457
+
+prediction: 47
+correct label: 47	letter: V
+Iteration: 1458
+
+prediction: 47
+correct label: 47	letter: V
+Iteration: 1459
+
+prediction: 47
+correct label: 47	letter: V
+Iteration: 1460
+
+prediction: 47
+correct label: 47	letter: V
+Iteration: 1461
+
+prediction: 47
+correct label: 47	letter: V
+Iteration: 1462
+
+prediction: 47
+correct label: 47	letter: V
+Iteration: 1463
+
+prediction: 47
+correct label: 47	letter: V
+Iteration: 1464
+
+prediction: 47
+correct label: 47	letter: V
+Iteration: 1465
+
+prediction: 47
+correct label: 47	letter: V
+Iteration: 1466
+
+prediction: 47
+correct label: 47	letter: V
+Iteration: 1467
+
+prediction: 47
+correct label: 47	letter: V
+Iteration: 1468
+
+prediction: 47
+correct label: 47	letter: V
+Iteration: 1469
+
+prediction: 47
+correct label: 47	letter: V
+Iteration: 1470
+
+prediction: 47
+correct label: 47	letter: V
+Iteration: 1471
+
+prediction: 47
+correct label: 47	letter: V
+Iteration: 1472
+
+prediction: 47
+correct label: 47	letter: V
+Iteration: 1473
+
+prediction: 47
+correct label: 47	letter: V
+Iteration: 1474
+
+prediction: 47
+correct label: 47	letter: V
+Iteration: 1475
+
+prediction: 47
+correct label: 47	letter: V
+Iteration: 1476
+
+prediction: 47
+correct label: 47	letter: V
+Iteration: 1477
+
+prediction: 47
+correct label: 47	letter: V
+Iteration: 1478
+
+prediction: 47
+correct label: 47	letter: V
+Iteration: 1479
+
+prediction: 47
+correct label: 47	letter: V
+Iteration: 1480
+
+prediction: 47
+correct label: 47	letter: V
+Iteration: 1481
+
+prediction: 47
+correct label: 47	letter: V
+Iteration: 1482
+
+prediction: 47
+correct label: 47	letter: V
+Iteration: 1483
+
+prediction: 47
+correct label: 47	letter: V
+Iteration: 1484
+
+prediction: 47
+correct label: 47	letter: V
+Iteration: 1485
+
+prediction: 47
+correct label: 47	letter: V
+Iteration: 1486
+
+prediction: 47
+correct label: 47	letter: V
+Iteration: 1487
+
+prediction: 47
+correct label: 47	letter: V
+Iteration: 1488
+
+prediction: 51
+correct label: 48	letter: Z
+Iteration: 1489
+
+prediction: 48
+correct label: 48	letter: W
+Iteration: 1490
+
+prediction: 49
+correct label: 48	letter: X
+Iteration: 1491
+
+prediction: 48
+correct label: 48	letter: W
+Iteration: 1492
+
+prediction: 7
+correct label: 48	letter: h
+Iteration: 1493
+
+prediction: 48
+correct label: 48	letter: W
+Iteration: 1494
+
+prediction: 50
+correct label: 48	letter: Y
+Iteration: 1495
+
+prediction: 49
+correct label: 48	letter: X
+Iteration: 1496
+
+prediction: 48
+correct label: 48	letter: W
+Iteration: 1497
+
+prediction: 48
+correct label: 48	letter: W
+Iteration: 1498
+
+prediction: 42
+correct label: 48	letter: Q
+Iteration: 1499
+
+prediction: 48
+correct label: 48	letter: W
+Iteration: 1500
+
+prediction: 48
+correct label: 48	letter: W
+Iteration: 1501
+
+prediction: 48
+correct label: 48	letter: W
+Iteration: 1502
+
+prediction: 48
+correct label: 48	letter: W
+Iteration: 1503
+
+prediction: 7
+correct label: 48	letter: h
+Iteration: 1504
+
+prediction: 48
+correct label: 48	letter: W
+Iteration: 1505
+
+prediction: 48
+correct label: 48	letter: W
+Iteration: 1506
+
+prediction: 48
+correct label: 48	letter: W
+Iteration: 1507
+
+prediction: 48
+correct label: 48	letter: W
+Iteration: 1508
+
+prediction: 48
+correct label: 48	letter: W
+Iteration: 1509
+
+prediction: 7
+correct label: 48	letter: h
+Iteration: 1510
+
+prediction: 48
+correct label: 48	letter: W
+Iteration: 1511
+
+prediction: 49
+correct label: 48	letter: X
+Iteration: 1512
+
+prediction: 48
+correct label: 48	letter: W
+Iteration: 1513
+
+prediction: 48
+correct label: 48	letter: W
+Iteration: 1514
+
+prediction: 51
+correct label: 48	letter: Z
+Iteration: 1515
+
+prediction: 46
+correct label: 48	letter: U
+Iteration: 1516
+
+prediction: 48
+correct label: 48	letter: W
+Iteration: 1517
+
+prediction: 47
+correct label: 48	letter: V
+Iteration: 1518
+
+prediction: 48
+correct label: 48	letter: W
+Iteration: 1519
+
+prediction: 51
+correct label: 49	letter: Z
+Iteration: 1520
+
+prediction: 6
+correct label: 49	letter: g
+Iteration: 1521
+
+prediction: 49
+correct label: 49	letter: X
+Iteration: 1522
+
+prediction: 49
+correct label: 49	letter: X
+Iteration: 1523
+
+prediction: 49
+correct label: 49	letter: X
+Iteration: 1524
+
+prediction: 49
+correct label: 49	letter: X
+Iteration: 1525
+
+prediction: 49
+correct label: 49	letter: X
+Iteration: 1526
+
+prediction: 50
+correct label: 49	letter: Y
+Iteration: 1527
+
+prediction: 49
+correct label: 49	letter: X
+Iteration: 1528
+
+prediction: 47
+correct label: 49	letter: V
+Iteration: 1529
+
+prediction: 49
+correct label: 49	letter: X
+Iteration: 1530
+
+prediction: 49
+correct label: 49	letter: X
+Iteration: 1531
+
+prediction: 49
+correct label: 49	letter: X
+Iteration: 1532
+
+prediction: 49
+correct label: 49	letter: X
+Iteration: 1533
+
+prediction: 49
+correct label: 49	letter: X
+Iteration: 1534
+
+prediction: 49
+correct label: 49	letter: X
+Iteration: 1535
+
+prediction: 49
+correct label: 49	letter: X
+Iteration: 1536
+
+prediction: 49
+correct label: 49	letter: X
+Iteration: 1537
+
+prediction: 49
+correct label: 49	letter: X
+Iteration: 1538
+
+prediction: 49
+correct label: 49	letter: X
+Iteration: 1539
+
+prediction: 50
+correct label: 49	letter: Y
+Iteration: 1540
+
+prediction: 49
+correct label: 49	letter: X
+Iteration: 1541
+
+prediction: 6
+correct label: 49	letter: g
+Iteration: 1542
+
+prediction: 49
+correct label: 49	letter: X
+Iteration: 1543
+
+prediction: 47
+correct label: 49	letter: V
+Iteration: 1544
+
+prediction: 49
+correct label: 49	letter: X
+Iteration: 1545
+
+prediction: 49
+correct label: 49	letter: X
+Iteration: 1546
+
+prediction: 49
+correct label: 49	letter: X
+Iteration: 1547
+
+prediction: 49
+correct label: 49	letter: X
+Iteration: 1548
+
+prediction: 6
+correct label: 49	letter: g
+Iteration: 1549
+
+prediction: 6
+correct label: 49	letter: g
+Iteration: 1550
+
+prediction: 6
+correct label: 50	letter: g
+Iteration: 1551
+
+prediction: 6
+correct label: 50	letter: g
+Iteration: 1552
+
+prediction: 50
+correct label: 50	letter: Y
+Iteration: 1553
+
+prediction: 50
+correct label: 50	letter: Y
+Iteration: 1554
+
+prediction: 6
+correct label: 50	letter: g
+Iteration: 1555
+
+prediction: 50
+correct label: 50	letter: Y
+Iteration: 1556
+
+prediction: 50
+correct label: 50	letter: Y
+Iteration: 1557
+
+prediction: 6
+correct label: 50	letter: g
+Iteration: 1558
+
+prediction: 50
+correct label: 50	letter: Y
+Iteration: 1559
+
+prediction: 6
+correct label: 50	letter: g
+Iteration: 1560
+
+prediction: 6
+correct label: 50	letter: g
+Iteration: 1561
+
+prediction: 6
+correct label: 50	letter: g
+Iteration: 1562
+
+prediction: 50
+correct label: 50	letter: Y
+Iteration: 1563
+
+prediction: 50
+correct label: 50	letter: Y
+Iteration: 1564
+
+prediction: 47
+correct label: 50	letter: V
+Iteration: 1565
+
+prediction: 6
+correct label: 50	letter: g
+Iteration: 1566
+
+prediction: 50
+correct label: 50	letter: Y
+Iteration: 1567
+
+prediction: 50
+correct label: 50	letter: Y
+Iteration: 1568
+
+prediction: 47
+correct label: 50	letter: V
+Iteration: 1569
+
+prediction: 50
+correct label: 50	letter: Y
+Iteration: 1570
+
+prediction: 6
+correct label: 50	letter: g
+Iteration: 1571
+
+prediction: 6
+correct label: 50	letter: g
+Iteration: 1572
+
+prediction: 50
+correct label: 50	letter: Y
+Iteration: 1573
+
+prediction: 6
+correct label: 50	letter: g
+Iteration: 1574
+
+prediction: 50
+correct label: 50	letter: Y
+Iteration: 1575
+

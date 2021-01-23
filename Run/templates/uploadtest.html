@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Upload Images</title>
+	<link rel="stylesheet" type="text/css" href=" {{ url_for('static', filename='css/bootstrap.min.css') }}">
+	<link rel="stylesheet" type="text/css" href=" {{ url_for('static', filename='css/style.css') }}">
+
+	<script type="text/javascript">
+		window.onload = function (){
+			var url = window.location.href;
+			var user = url.split("/")[4];
+
+			document.getElementById("newForm").action = "http://localhost:5000/uploadtest/" + user;
+
+			console.log(user);
+			
+		}
+
+	</script>
+
+</head>
+<body>
+
+	<div class="jumbotron vertical-center">
+		<div class="container">
+			<div class="row">
+				<form id="newForm" class="form-horizontal" role="form" method="post" enctype="multipart/form-data" action="http://localhost:5000/uploadtest">
+					<p>{{ user }}</p>
+					<div class="form-group">
+						<label for="image" class="col-sm-5 control-label">Select image to upload:</label>
+						<input type="file" name="file" id="datasetUpload" >
+					</div>
+				
+				  	<div class="form-group">
+						<input type="submit" name="submit" value="Upload Image" class="btn btn-primary btn-large">
+				  	</div>
+				</form>
+				<div id="existingUserForm" class="row">
+					<p>{{ error }} </p>
+					<p> {{ words }} </p>
+					<p> Accuracy of word segmentation : {{ seg }} </p> 
+					<br>
+					<p> Accuracy of word recognition : {{ recog }} </p>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

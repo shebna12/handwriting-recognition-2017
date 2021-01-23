@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home</title>
+	<link rel="stylesheet" type="text/css" href=" {{ url_for('static', filename='css/bootstrap.min.css') }}">
+	<link rel="stylesheet" type="text/css" href=" {{ url_for('static', filename='css/style.css') }}">
+	<script type="text/javascript">
+
+		function showExisting(curUsers) {
+
+			var existingDiv = document.getElementById('existingDiv');
+			existingDiv.style.display = "block";
+			console.log(curUsers)
+			for (var i = 0; i < curUsers.length; i++) {
+				var li = document.createElement("li");
+				var list = document.getElementById("user-list");
+				list.appendChild(li);
+
+				li.classList.add("list-group-item");
+				li.classList.add("btn");
+				li.classList.add("btn-primary");
+
+				li.innerHTML = "<a href='http://localhost:5000/uploadtest/"+curUsers[i]+"'>" + curUsers[i] + "</a> <br>";
+				console.log(curUsers[i])
+			}
+
+		}
+	</script>
+</head>
+<body>
+	<div class="jumbotron vertical-center">
+		
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 text-center" id="wrapper">
+					<h1> Are You A(n)...</h1>
+					<div class="col-md-12 col-md-offset-2 text-center" id="btn-container">
+						<a id="newBtn" href="http://localhost:5000/upload" class="btn btn-primary btn-block">New User</a>
+						<a id="existingBtn" class="btn btn-default btn-block" name="existing" onclick="showExisting( {{ curUsers }} ); this.onclick=null;" >Existing User</a>
+					</div>
+				</div>
+			</div>
+			<div class="row" style=" display: none; " id="existingDiv">
+
+				<ul id="user-list" class="list-group">
+					
+				</ul>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

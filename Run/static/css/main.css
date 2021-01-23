@@ -1,0 +1,45 @@
+body{
+	margin: 0;
+}
+
+.btn-block{
+	display: block;
+	width: 100%;
+}
+
+.btn-center{
+	display: block;
+	margin: auto;
+}
+
+.center{
+	text-align: center!important;
+	display: block;
+}
+
+.margin-top{
+	margin-top: 0.15em;
+}
+
+.vertical-center{
+	display: flex;
+	min-height: calc(80vh - 20px);
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+
+.horizontal-center{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+
+.page-footer{
+	background-color: #64b5f6;
+}
+
+#footer{
+	text-align: center;
+}

@@ -1,0 +1,33 @@
+#upload-input{
+
+}
+
+#upload-input input{
+	display: none;
+}
+
+#upload-btn{
+	display: block;
+	margin: auto;
+}
+
+#preview{
+	display: none;
+	margin: auto;
+	width: 100%;
+}
+
+#upload-btn{
+	display: none;
+	margin: auto;
+}
+
+#upload-btn + label{
+	display: none;
+}
+
+#submit{
+	margin: 20px auto;
+	display: block;
+}
+

@@ -1,0 +1,82 @@
+prediction: 23
+correct label: 0	letter: x
+Iteration: 1
+
+prediction: 23
+correct label: 0	letter: x
+Iteration: 2
+
+prediction: 23
+correct label: 0	letter: x
+Iteration: 3
+
+prediction: 23
+correct label: 0	letter: x
+Iteration: 4
+
+prediction: 23
+correct label: 0	letter: x
+Iteration: 5
+
+prediction: 23
+correct label: 0	letter: x
+Iteration: 6
+
+prediction: 23
+correct label: 0	letter: x
+Iteration: 7
+
+prediction: 23
+correct label: 0	letter: x
+Iteration: 8
+
+prediction: 23
+correct label: 0	letter: x
+Iteration: 9
+
+prediction: 23
+correct label: 0	letter: x
+Iteration: 10
+
+prediction: 23
+correct label: 0	letter: x
+Iteration: 11
+
+prediction: 23
+correct label: 0	letter: x
+Iteration: 12
+
+prediction: 23
+correct label: 0	letter: x
+Iteration: 13
+
+prediction: 23
+correct label: 0	letter: x
+Iteration: 14
+
+prediction: 23
+correct label: 23	letter: x
+Iteration: 1
+
+
+Accuracy: 1.0prediction: 23
+correct label: 23	letter: x
+Iteration: 1
+
+
+Accuracy: 1.0prediction: 23
+correct label: 23	letter: x
+Iteration: 1
+
+
+Accuracy: 1.0prediction: 23
+correct label: 23	letter: x
+Iteration: 1
+
+
+Accuracy: 1.0prediction: 23
+correct label: 23	letter: x
+Iteration: 1
+
+
+Accuracy: 1.0

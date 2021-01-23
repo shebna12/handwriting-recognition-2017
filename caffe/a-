@@ -1,0 +1,231 @@
+I0502 00:17:33.461000 13382 caffe.cpp:266] Use GPU with device ID 0
+I0502 00:17:33.461693 13382 caffe.cpp:270] GPU device name: GeForce 940MX
+I0502 00:17:33.751925 13382 net.cpp:51] Initializing net from parameters: 
+name: "LeNet"
+state {
+  phase: TEST
+  level: 0
+  stage: ""
+}
+layer {
+  name: "data"
+  type: "Input"
+  top: "data"
+  input_param {
+    shape {
+      dim: 64
+      dim: 3
+      dim: 64
+      dim: 64
+    }
+  }
+}
+layer {
+  name: "conv1"
+  type: "Convolution"
+  bottom: "data"
+  top: "conv1"
+  param {
+    lr_mult: 1
+  }
+  param {
+    lr_mult: 2
+  }
+  convolution_param {
+    num_output: 20
+    kernel_size: 5
+    stride: 1
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layer {
+  name: "pool1"
+  type: "Pooling"
+  bottom: "conv1"
+  top: "pool1"
+  pooling_param {
+    pool: MAX
+    kernel_size: 2
+    stride: 2
+  }
+}
+layer {
+  name: "conv2"
+  type: "Convolution"
+  bottom: "pool1"
+  top: "conv2"
+  param {
+    lr_mult: 1
+  }
+  param {
+    lr_mult: 2
+  }
+  convolution_param {
+    num_output: 50
+    kernel_size: 5
+    stride: 1
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layer {
+  name: "pool2"
+  type: "Pooling"
+  bottom: "conv2"
+  top: "pool2"
+  pooling_param {
+    pool: MAX
+    kernel_size: 2
+    stride: 2
+  }
+}
+layer {
+  name: "ip1"
+  type: "InnerProduct"
+  bottom: "pool2"
+  top: "ip1"
+  param {
+    lr_mult: 1
+  }
+  param {
+    lr_mult: 2
+  }
+  inner_product_param {
+    num_output: 500
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layer {
+  name: "relu1"
+  type: "ReLU"
+  bottom: "ip1"
+  top: "ip1"
+}
+layer {
+  name: "ip2"
+  type: "InnerProduct"
+  bottom: "ip1"
+  top: "ip2"
+  param {
+    lr_mult: 1
+  }
+  param {
+    lr_mult: 2
+  }
+  inner_product_param {
+    num_output: 26
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layer {
+  name: "prob"
+  type: "Softmax"
+  bottom: "ip2"
+  top: "prob"
+}
+I0502 00:17:33.751996 13382 layer_factory.hpp:77] Creating layer data
+I0502 00:17:33.752012 13382 net.cpp:84] Creating Layer data
+I0502 00:17:33.752022 13382 net.cpp:380] data -> data
+I0502 00:17:33.769071 13382 net.cpp:122] Setting up data
+I0502 00:17:33.769104 13382 net.cpp:129] Top shape: 64 3 64 64 (786432)
+I0502 00:17:33.769107 13382 net.cpp:137] Memory required for data: 3145728
+I0502 00:17:33.769114 13382 layer_factory.hpp:77] Creating layer conv1
+I0502 00:17:33.769135 13382 net.cpp:84] Creating Layer conv1
+I0502 00:17:33.769141 13382 net.cpp:406] conv1 <- data
+I0502 00:17:33.769155 13382 net.cpp:380] conv1 -> conv1
+I0502 00:17:33.769784 13382 net.cpp:122] Setting up conv1
+I0502 00:17:33.769794 13382 net.cpp:129] Top shape: 64 20 60 60 (4608000)
+I0502 00:17:33.769798 13382 net.cpp:137] Memory required for data: 21577728
+I0502 00:17:33.769812 13382 layer_factory.hpp:77] Creating layer pool1
+I0502 00:17:33.769820 13382 net.cpp:84] Creating Layer pool1
+I0502 00:17:33.769824 13382 net.cpp:406] pool1 <- conv1
+I0502 00:17:33.769827 13382 net.cpp:380] pool1 -> pool1
+I0502 00:17:33.769870 13382 net.cpp:122] Setting up pool1
+I0502 00:17:33.769877 13382 net.cpp:129] Top shape: 64 20 30 30 (1152000)
+I0502 00:17:33.769881 13382 net.cpp:137] Memory required for data: 26185728
+I0502 00:17:33.769884 13382 layer_factory.hpp:77] Creating layer conv2
+I0502 00:17:33.769894 13382 net.cpp:84] Creating Layer conv2
+I0502 00:17:33.769899 13382 net.cpp:406] conv2 <- pool1
+I0502 00:17:33.769906 13382 net.cpp:380] conv2 -> conv2
+I0502 00:17:33.770886 13382 net.cpp:122] Setting up conv2
+I0502 00:17:33.770898 13382 net.cpp:129] Top shape: 64 50 26 26 (2163200)
+I0502 00:17:33.770901 13382 net.cpp:137] Memory required for data: 34838528
+I0502 00:17:33.770910 13382 layer_factory.hpp:77] Creating layer pool2
+I0502 00:17:33.770915 13382 net.cpp:84] Creating Layer pool2
+I0502 00:17:33.770918 13382 net.cpp:406] pool2 <- conv2
+I0502 00:17:33.770923 13382 net.cpp:380] pool2 -> pool2
+I0502 00:17:33.770956 13382 net.cpp:122] Setting up pool2
+I0502 00:17:33.770962 13382 net.cpp:129] Top shape: 64 50 13 13 (540800)
+I0502 00:17:33.770965 13382 net.cpp:137] Memory required for data: 37001728
+I0502 00:17:33.770984 13382 layer_factory.hpp:77] Creating layer ip1
+I0502 00:17:33.770993 13382 net.cpp:84] Creating Layer ip1
+I0502 00:17:33.770998 13382 net.cpp:406] ip1 <- pool2
+I0502 00:17:33.771004 13382 net.cpp:380] ip1 -> ip1
+I0502 00:17:33.794800 13382 net.cpp:122] Setting up ip1
+I0502 00:17:33.794826 13382 net.cpp:129] Top shape: 64 500 (32000)
+I0502 00:17:33.794828 13382 net.cpp:137] Memory required for data: 37129728
+I0502 00:17:33.794845 13382 layer_factory.hpp:77] Creating layer relu1
+I0502 00:17:33.794859 13382 net.cpp:84] Creating Layer relu1
+I0502 00:17:33.794864 13382 net.cpp:406] relu1 <- ip1
+I0502 00:17:33.794873 13382 net.cpp:367] relu1 -> ip1 (in-place)
+I0502 00:17:33.794886 13382 net.cpp:122] Setting up relu1
+I0502 00:17:33.794893 13382 net.cpp:129] Top shape: 64 500 (32000)
+I0502 00:17:33.794898 13382 net.cpp:137] Memory required for data: 37257728
+I0502 00:17:33.794900 13382 layer_factory.hpp:77] Creating layer ip2
+I0502 00:17:33.794909 13382 net.cpp:84] Creating Layer ip2
+I0502 00:17:33.794914 13382 net.cpp:406] ip2 <- ip1
+I0502 00:17:33.794920 13382 net.cpp:380] ip2 -> ip2
+I0502 00:17:33.797746 13382 net.cpp:122] Setting up ip2
+I0502 00:17:33.797763 13382 net.cpp:129] Top shape: 64 26 (1664)
+I0502 00:17:33.797766 13382 net.cpp:137] Memory required for data: 37264384
+I0502 00:17:33.797776 13382 layer_factory.hpp:77] Creating layer prob
+I0502 00:17:33.797788 13382 net.cpp:84] Creating Layer prob
+I0502 00:17:33.797792 13382 net.cpp:406] prob <- ip2
+I0502 00:17:33.797798 13382 net.cpp:380] prob -> prob
+I0502 00:17:33.797845 13382 net.cpp:122] Setting up prob
+I0502 00:17:33.797850 13382 net.cpp:129] Top shape: 64 26 (1664)
+I0502 00:17:33.797853 13382 net.cpp:137] Memory required for data: 37271040
+I0502 00:17:33.797855 13382 net.cpp:200] prob does not need backward computation.
+I0502 00:17:33.797863 13382 net.cpp:200] ip2 does not need backward computation.
+I0502 00:17:33.797866 13382 net.cpp:200] relu1 does not need backward computation.
+I0502 00:17:33.797868 13382 net.cpp:200] ip1 does not need backward computation.
+I0502 00:17:33.797871 13382 net.cpp:200] pool2 does not need backward computation.
+I0502 00:17:33.797873 13382 net.cpp:200] conv2 does not need backward computation.
+I0502 00:17:33.797876 13382 net.cpp:200] pool1 does not need backward computation.
+I0502 00:17:33.797879 13382 net.cpp:200] conv1 does not need backward computation.
+I0502 00:17:33.797881 13382 net.cpp:200] data does not need backward computation.
+I0502 00:17:33.797883 13382 net.cpp:242] This network produces output prob
+I0502 00:17:33.797894 13382 net.cpp:255] Network initialization done.
+F0502 00:17:33.800298 13382 net.cpp:757] Cannot copy param 0 weights from layer 'ip1'; shape mismatch.  Source param shape is 500 800 (400000); target param shape is 500 8450 (4225000). To learn this layer's parameters from scratch rather than copying from a saved net, rename the layer.
+*** Check failure stack trace: ***
+    @     0x7f3f83f7f5cd  google::LogMessage::Fail()
+    @     0x7f3f83f81433  google::LogMessage::SendToLog()
+    @     0x7f3f83f7f15b  google::LogMessage::Flush()
+    @     0x7f3f83f81e1e  google::LogMessageFatal::~LogMessageFatal()
+    @     0x7f3f846f620b  caffe::Net<>::CopyTrainedLayersFrom()
+    @     0x7f3f846fd525  caffe::Net<>::CopyTrainedLayersFromBinaryProto()
+    @     0x7f3f846fd607  caffe::Net<>::CopyTrainedLayersFrom()
+    @           0x409200  test()
+    @           0x4072e0  main
+    @     0x7f3f82eef830  __libc_start_main
+    @           0x407b09  _start
+    @              (nil)  (unknown)

@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/materialize.min.css') }}">
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/main.css') }}">
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/exist.css') }}">
+	<style type="text/css">
+		.container{
+			min-height: 90vh;
+		}
+		footer{
+			min-height: 10vh;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			flex-direction: column;
+			flex-wrap: wrap;
+		}
+		#ready-text{
+			color: green;
+		}
+		.hide{
+			display: none;
+		}
+		.show{
+			display: block;
+		}
+		h5{
+			text-align: center;
+		}
+		
+	</style>
+</head>
+<body>
+	<div class="container">
+		<div class="row">
+			<div class="col s12 m6 offset-m3 l4 offset-l4">
+				<form action="http://localhost:5000/home">
+					<button type="submit" id="home-link" value="Home" class="btn waves-effect waves-light light-blue"><i class="material-icons">home</i> </button>
+				</form>
+				<div class="vertical-center">
+					<div id="loading" class="vertical-center hide">
+						<section>
+							
+							<h5>Please wait while your model is training</h5>
+						</section>
+						<div class="preloader-wrapper big active">
+							<div class="spinner-layer spinner-blue-only">
+							  <div class="circle-clipper left">
+								<div class="circle"></div>
+							  </div><div class="gap-patch">
+								<div class="circle"></div>
+							  </div><div class="circle-clipper right">
+								<div class="circle"></div>
+							  </div>
+							</div>
+						</div>
+					</div>
+					<section id="upload-form">
+						<form id="newUserForm" class="form-horizontal" role="form" method="post" enctype="multipart/form-data" action="http://localhost:5000/upload" >
+							<input type="text" name="name" id="name" placeholder="Enter Name" class="form-control">
+							<section>
+								<h5 class="center">Upload</h5>
+								<label id="upload-input" class="btn-floating btn-large btn-center pink pulse">
+									<input type="file" name="file" id="datasetUpload">
+									<i class="material-icons">image</i>
+								</label>
+							</section>
+
+							<h5>
+								<label class="truncate" id="file-name"></label>
+								<label class="truncate" id="ready-text"></label>
+
+							</h5>
+							
+							<button type="submit" id="submit" name="submit" class=" btn waves-effect waves-light light-green" >
+								Submit
+								<i class="material-icons right">send</i>
+							</button>
+
+							
+							<div id="existingUsers" class="link-group">
+								<ul class="collection with-header" id="user-list">
+									<li class="collection-header"><h6>Existing Users</h6></li>
+
+								</ul>
+							</div>
+						</form>
+					</section>
+				</div>
+			</div>
+		</div>
+	</div>
+	<footer class="page-footer"> 
+		<div class="footer-copyright">
+			<div id="footer">
+				© 2018 Copyright All Rights Reserved.
+			</div>
+		</div>
+	</footer>
+	<script type="text/javascript" src= "{{ url_for('static', filename='js/jquery.min.js') }}" ></script>
+	<script type="text/javascript" src="{{ url_for('static', filename='js/materialize.min.js') }}"></script>
+	<script type="text/javascript" src="{{ url_for('static', filename='js/home.js') }}">
+	</script>
+
+	<script type="text/javascript">
+		curUsers = 	showExistingUsers({{ curUsers|safe }})
+
+		window.onload = function () {
+			var url = window.location.href;
+			var user = url.split("/")[3];
+
+
+			// document.getElementById("existingForm").action = "http://localhost:5000/uploadtest/" + user;
+			console.log(url)
+			console.log(user);
+		}
+
+
+		$(document).ready(function(){
+			
+			$("#datasetUpload").change(function(){
+				console.log("dataset changed")
+			  	// imagesComplete()
+			  	$("#file-name").html($("#datasetUpload").val()).slideDown()
+			  	$("#ready-text").html("Dataset is now ready.").slideDown()
+			})
+
+			$("#submit").click(function () {
+				$("#upload-form").addClass("hide")
+				$("#loading").removeClass("hide")
+			})
+
+			$("#upload-input").click(function(){
+		
+				$("#file-name").slideUp().html("")
+			  	$("#ready-text").slideUp().html("")
+			})
+		})
+	</script>
+</body>
+</html>

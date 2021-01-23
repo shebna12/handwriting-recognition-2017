@@ -1,0 +1,14 @@
+net: "/home/lincy/workflow_structure/USERS/shebna/lenet_train_val.prototxt"
+test_iter: 78
+test_interval: 20
+base_lr: 0.01
+stepsize: 500
+gamma: 0.1
+lr_policy: "step"
+momentum: 0.9
+weight_decay: 0.0005
+display: 500
+max_iter: 10000
+snapshot: 2000
+snapshot_prefix: "/home/lincy/workflow_structure/USERS/shebna/models"
+solver_mode: GPU

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/materialize.min.css') }}">
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/main.css') }}">
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/exist.css') }}">
+	<style type="text/css">
+		.container{
+			min-height: 90vh;
+		}
+		footer{
+			min-height: 10vh;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			flex-direction: column;
+			flex-wrap: wrap;
+		}
+		#ready-text{
+			color: green;
+		}
+	</style>
+</head>
+<body>
+	<div class="container">
+		<div class="row">
+			<div class="col s12 m6 offset-m3 l4 offset-l4">
+				<form action="http://localhost:5000/home">
+					<button type="submit" id="home-link" value="Home" class="btn waves-effect waves-light light-blue"><i class="material-icons">home</i> </button>
+				</form>
+				<div class="vertical-center">
+					<section>
+						<h4>Please wait while your model is training</h4>
+					</section>
+					<div class="preloader-wrapper big active">
+						<div class="spinner-layer spinner-blue-only">
+						  <div class="circle-clipper left">
+							<div class="circle"></div>
+						  </div><div class="gap-patch">
+							<div class="circle"></div>
+						  </div><div class="circle-clipper right">
+							<div class="circle"></div>
+						  </div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<footer class="page-footer"> 
+		<div class="footer-copyright">
+			<div id="footer">
+				© 2018 Copyright All Rights Reserved.
+			</div>
+		</div>
+	</footer>
+	<script type="text/javascript" src= "{{ url_for('static', filename='js/jquery.min.js') }}" ></script>
+	<script type="text/javascript" src="{{ url_for('static', filename='js/materialize.min.js') }}"></script>
+	<script type="text/javascript" src="{{ url_for('static', filename='js/home.js') }}">
+	</script>
+
+	
+</body>
+</html>

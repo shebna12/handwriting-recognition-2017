@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/materialize.min.css') }}">
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/main.css') }}">
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/exist.css') }}">
+	<style type="text/css">
+		.hide{
+			display: none;
+		}
+		.show{
+			display: block;
+		}
+		.container{
+			min-height: 90vh;
+		}
+		footer{
+			min-height: 10vh;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			flex-direction: column;
+			flex-wrap: wrap;
+		}
+		#select-dropdown{
+			display: none;
+		}
+		#message{
+			color: green;
+		}
+	</style>
+</head>
+<body>
+	<div class="container">
+		<div class="row">
+			{% block content %}
+			<div class="col s12 m6 offset-m3 l4 offset-l4">
+				<form action="http://localhost:5000/home">
+					<button type="submit" id="home-link" value="Home" class="btn waves-effect waves-light light-blue"><i class="material-icons">home</i> </button>
+				</form>
+				<div class="vertical-center">
+					<h2>TextWRec</h2>
+					<h6 id="message"> {{ message }} </h6>
+					<h5>Model Name: {{ user }} </h5>
+					<section id="upload-form">
+						<form id="existingForm" class="form-horizontal" role="form" method="post" enctype="multipart/form-data" action="http://localhost:5000/uploadtest/">
+							<div id="upload-div" class="hide">
+								
+								<h5 class="center">Upload</h5>
+								<label id="upload-input" class="btn-floating btn-large btn-center pink pulse">
+									<input type="file" accept="image/*" name="file" id="datasetUpload">
+									<i class="material-icons">image</i>
+								</label>
+								<h5>
+									<label class="center">Select Image</label>
+								</h5>
+							</div>
+							<p>Pick option:</p>
+							<div>
+								<label for="labeled"> 
+									<input type="radio" id="labeled" name="label" value="labeled" class="with-gap" selected> 
+									<span> Labeled </span>
+								</label>
+								
+							</div>
+							<div >
+								<label for="unlabeled"> 
+									<input type="radio" id="unlabeled" name="label" value="unlabeled" class="with-gap">
+									<span> Unlabeled </span>
+								</label>
+								
+							</div>
+							<!-- <div> -->
+							<div id="select-dropdown">
+								<label>Image</label>
+								<select name="test_images">
+									<option value="0" selected disabled>Select an image</option>
+									<option value="1">The quick brown fox </option>
+									<option value="2">Blunt was the word </option>
+									<option value="3">Kindly inform us </option>
+								</select>
+							</div>
+
+						<!-- 	<button type="submit" id="submit-btn" name="submit" class=" btn waves-effect waves-light light-green hide" >
+								Submit
+								<i class="material-icons right">send</i>
+							</button> -->
+
+							<img src="#" class="preview-image" id="preview">
+							<div class="horizontal-center" id="preview-btn">
+								<button class="btn-floating btn-center pulse light-green waves-light waves-effect" id="upload-btn">
+									<i class="material-icons">file_upload</i>
+								</button>
+								<label>Upload!</label>
+							</div>
+						</form>
+					</section>
+				</div>
+			</div>
+			{% endblock %}
+		</div>
+	</div>
+	<footer class="page-footer"> 
+		<div class="footer-copyright">
+			<div  id="footer">
+				© 2018 Copyright All Rights Reserved.
+			</div>
+		</div>
+	</footer>
+
+<script type="text/javascript" src= "{{ url_for('static', filename='js/jquery.min.js') }}" ></script>
+<script type="text/javascript" src="{{ url_for('static', filename='js/materialize.min.js') }}"></script>
+<script type="text/javascript" src="{{ url_for('static', filename='js/home.js') }}">
+</script>
+<script type="text/javascript">
+	window.onload = function () {
+		var url = window.location.href;
+		var user = url.split("/")[5];
+
+
+		document.getElementById("existingForm").action = "http://localhost:5000/uploadtest/" + user;
+
+		// console.log("sucessful: " + user);
+
+
+	}
+
+	$(document).ready(function(){
+
+		$("select").formSelect()
+		
+		$("#datasetUpload").change(function(){
+		    readURL(this, '#preview');
+		  	imagesComplete()
+		})
+
+		$("#upload-input").click(function(){
+			$("#preview").slideUp() 
+		})
+
+		$("#labeled").click(function(){
+			console.log("clicked!")
+			$("#select-dropdown").slideDown()
+			$("#upload-div").removeClass("hide")
+			// $("#submit-btn").addClass("show")
+			// $("#submit-btn").removeClass("hide")
+			// $("#preview").addClass("hide")
+			// $("#preview-btn").addClass("hide")
+
+		})
+
+		$("#unlabeled").click(function(){
+			console.log("clicked!")
+			$("#select-dropdown").slideUp()
+			$("#upload-div").removeClass("hide")
+			// $("#submit-btn").addClass("hide")
+			// $("#submit-btn").removeClass("show")
+			// $("#preview").removeClass("hide")
+			// $("#preview-btn").removeClass("hide")
+		
+
+
+		})
+	})
+
+	function readURL(input, imgElement) {
+		if (input.files && input.files[0]) {
+			var reader = new FileReader();
+			reader.onload = function(e) {
+			  	$(imgElement).attr('src', e.target.result)
+			  	setTimeout(function(){
+				  	$(imgElement).slideDown()
+			  	}, 500)
+			}
+			reader.readAsDataURL(input.files[0]);
+		}
+	}
+
+	function imagesComplete(){
+		var image = $("#datasetUpload").val()
+		var input = $("#upload-input")
+		var icon = $("#upload-input .material-icons").eq(0)
+		var label = $("#upload-input + label")
+		var heading = $("h5").eq(0)
+
+		if ( image != "" ) {
+			input.removeClass("pulse")
+			heading.html("Change")
+			icon.html("sync")
+			label.html("Change image")
+			$("#upload-btn").fadeIn()
+			$("#upload-btn + label").fadeIn()
+		} else {
+			input.addClass("pulse")
+			heading.html("Upload")
+			icon.html("image")
+			label.html("Select image")
+			$("#upload-btn").fadeOut()
+			$("#upload-btn + label").fadeOut()
+		} 
+	}
+</script>		
+</body>
+</html>

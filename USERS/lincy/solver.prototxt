@@ -1,0 +1,14 @@
+net: "/home/lincy/workflow_structure/USERS/lincy/lenet_train_val.prototxt"
+test_iter: 104
+test_interval: 45
+base_lr: 0.01
+stepsize: 2000
+gamma: 0.1
+lr_policy: "inv"
+momentum: 0.9
+weight_decay: 0.0005
+display: 500
+max_iter: 10000
+snapshot: 2000
+snapshot_prefix: "/home/lincy/workflow_structure/USERS/lincy/models"
+solver_mode: GPU
