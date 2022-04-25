@@ -1,5 +1,5 @@
 # Offline Handwriting Block Text Word Recognition using One-User Only Approach 
-This is a backup copy of my undergraduate thesis codes. Final version copy and hardbound of the paper are under the care of the Faculty of Computer Science, University of the Philippines Visayas. An abstract of this work is provided in the README file of this repo. 
+This is a backup copy of me and Ms. Lincy Legada's undergraduate thesis codes. Final version copy and hardbound of the paper are under the care of the Faculty of Computer Science, University of the Philippines Visayas. An abstract of this work is provided in the README file of this repo. 
 
 ## ABSTRACT
 
